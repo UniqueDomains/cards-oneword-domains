@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CARDS one-word domains still available to buy.
 
-This dataset contains 3,596 .CARDS one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,651 .CARDS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CARDS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cards-oneword-domains&utm_content=description.top) (3,505) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CARDS one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cards-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.csv"><b>⬇️ CSV (3.6K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.json"><b>⬇️ JSON (3.6K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cards-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.51K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.CARDS one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cards-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.csv"><b>⬇️ CSV (3.6K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.json"><b>⬇️ JSON (3.6K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cards-oneword-domains/blob/main/cards.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cards-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.51K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [.CARDS one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 21,003       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 47,901       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 3,209,980    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -102,6 +103,7 @@ If you want to search & filters the complete database of [.CARDS one word domain
 | .ADULT         | 3,941        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,662        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,841        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AI            | 53,618       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 3,989        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
 | .APARTMENTS    | 3,897        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,586       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
@@ -603,6 +605,7 @@ If you want to search & filters the complete database of [.CARDS one word domain
 | ------------------ | ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Agriculture        | 8,193        | [Github](https://github.com/UniqueDomains/Agriculture-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Agriculture-oneword-domains&utm_content=table.link)            |
 | Arts               | 5,769        | [Github](https://github.com/UniqueDomains/Arts-oneword-domains)                   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Arts-oneword-domains&utm_content=table.link)                   |
+| Automotive         | 8,126        | [Github](https://github.com/UniqueDomains/Automotive-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Automotive-oneword-domains&utm_content=table.link)             |
 | Aviation           | 8,682        | [Github](https://github.com/UniqueDomains/Aviation-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Aviation-oneword-domains&utm_content=table.link)               |
 | Banking            | 12,813       | [Github](https://github.com/UniqueDomains/Banking-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Banking-oneword-domains&utm_content=table.link)                |
 | Business           | 7,031        | [Github](https://github.com/UniqueDomains/Business-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=table.link)               |
