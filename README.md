@@ -1,10 +1,10 @@
-# Available .CARDS One-Word Domains (8,564)
+# Available .CARDS One-Word Domains (8,567)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C567%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C564%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C567%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cards one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,567 rows · **Live catalog:** 8,564 domains
+**Public extract:** 8,567 rows · **Live catalog:** 8,567 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cards`  
 **Best for:** founders, investors, studios
 
@@ -64,24 +64,24 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| wizard.cards    | available | $3.99     | $50.99        | 118            | 46     | 6      | name.com                                    |
+| wizard.cards    | available | $3.99     | $50.99        | 118            | 43     | 6      | name.com                                    |
 | checkout.cards  | resell    | —         | —             | 68             | 79     | 9      | Atak Domain Bilgi Teknolojileri A.Ş.        |
 | arm.cards       | premium   | $82.50    | —             | 76             | 53     | 3      | name.com                                    |
 | unity.cards     | available | $3.99     | $50.99        | 70             | 39     | 5      | name.com                                    |
 | code.cards      | resell    | —         | —             | 72             | 61     | 4      | NameCheap, Inc.                             |
 | insurance.cards | premium   | $520      | $520          | 76             | 44     | 9      | namecheap                                   |
-| fair.cards      | available | $3.99     | —             | 82             | 38     | 4      | name.com                                    |
+| forward.cards   | available | $3.99     | $50.99        | 68             | 39     | 7      | name.com                                    |
 | free.cards      | resell    | —         | —             | 88             | 59     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | track.cards     | premium   | $500      | $500          | 94             | 42     | 5      | name.com                                    |
-| forward.cards   | available | $3.99     | $50.99        | 68             | 38     | 7      | name.com                                    |
+| fair.cards      | available | $3.99     | —             | 82             | 38     | 4      | name.com                                    |
 | the.cards       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
-| first.cards     | premium   | $123.75   | $123.75       | 80             | 42     | 5      | name.com                                    |
+| strategy.cards  | premium   | $128.70   | $128.70       | 74             | 42     | 8      | namecheap                                   |
 | risk.cards      | available | $48.98    | —             | 62             | 38     | 4      | namecheap                                   |
 | email.cards     | resell    | —         | —             | 106            | 54     | 6      | Epik LLC                                    |
-| strategy.cards  | premium   | $128.70   | $128.70       | 74             | 42     | 8      | namecheap                                   |
+| aaa.cards       | premium   | $85.80    | $85.80        | 70             | 42     | 3      | namecheap                                   |
 | aaron.cards     | available | $48.98    | —             | 88             | 35     | 5      | namecheap                                   |
 | wallet.cards    | resell    | —         | —             | 74             | 54     | 6      | Dynadot Inc                                 |
-| aaa.cards       | premium   | $85.80    | $85.80        | 70             | 42     | 3      | namecheap                                   |
+| first.cards     | premium   | $123.75   | $123.75       | 80             | 41     | 5      | name.com                                    |
 | streaming.cards | available | $3.99     | —             | 78             | 35     | 9      | name.com                                    |
 | business.cards  | resell    | —         | —             | 100            | 53     | 8      | GoDaddy.com, LLC                            |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,567-row public sample | 8,564 live domains                               |
+| 8,567-row public sample | 8,567 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
