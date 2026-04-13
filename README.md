@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cards one-word domains from Uniqu
 
 **Public extract:** 8,567 rows · **Live catalog:** 8,567 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cards`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | forward.cards   | available | $3.99     | $50.99        | 68             | 39     | 7      | name.com                                    |
 | free.cards      | resell    | —         | —             | 88             | 59     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | track.cards     | premium   | $500      | $500          | 94             | 42     | 5      | name.com                                    |
-| fair.cards      | available | $3.99     | —             | 82             | 38     | 4      | name.com                                    |
+| risk.cards      | available | $48.98    | —             | 62             | 38     | 4      | namecheap                                   |
 | the.cards       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
 | strategy.cards  | premium   | $128.70   | $128.70       | 74             | 42     | 8      | namecheap                                   |
-| risk.cards      | available | $48.98    | —             | 62             | 38     | 4      | namecheap                                   |
+| fair.cards      | available | $3.99     | —             | 82             | 37     | 4      | name.com                                    |
 | email.cards     | resell    | —         | —             | 106            | 54     | 6      | Epik LLC                                    |
 | aaa.cards       | premium   | $85.80    | $85.80        | 70             | 42     | 3      | namecheap                                   |
 | aaron.cards     | available | $48.98    | —             | 88             | 35     | 5      | namecheap                                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
