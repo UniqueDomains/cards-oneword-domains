@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cards one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,469 domains · **Median ask:** $13.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cards`  
 **Best for:** founders, investors, studios
 
@@ -71,13 +71,13 @@ print(df.head())
 | dogsick.cards     | available | $3.99     | —             | 90             | 1      | 7      | name.com         |
 | getlife.cards     | available | $3.99     | —             | 80             | 5      | 8      | name.com         |
 | leaveon.cards     | available | $3.99     | —             | 80             | 1      | 8      | name.com         |
-| rumcake.cards     | available | $3.99     | —             | 81             | 3      | 8      | name.com         |
+| rumcake.cards     | available | $3.99     | —             | 81             | 2      | 8      | name.com         |
 | skills.cards      | available | $3.99     | —             | 58             | 47     | 6      | name.com         |
 | girls.cards       | resell    | —         | —             | 83             | 23     | 5      | Porkbun LLC      |
 | jobs.cards        | premium   | $123.75   | —             | 79             | 42     | 4      | name.com         |
 | letsgo.cards      | available | $3.99     | —             | 57             | 31     | 7      | name.com         |
-| pestcontrol.cards | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
-| partners.cards    | premium   | $500      | —             | 61             | 32     | 8      | name.com         |
+| pestcontrol.cards | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
+| partners.cards    | premium   | $500      | —             | 61             | 31     | 8      | name.com         |
 | SanDiego.cards    | available | $3.99     | —             | 74             | 29     | 9      | name.com         |
 | tips.cards        | premium   | $500      | —             | 80             | 26     | 4      | name.com         |
 | Jim.cards         | available | $48.98    | —             | 78             | 28     | 3      | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
