@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cards one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,469 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,469 domains · **Median ask:** $13.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,469 domains · **Median ask:** $13.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cards`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/cards`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| geton.cards       | available | $3.99     | —             | 82             | 10     | 6      | name.com         |
-| Apples.cards      | available | $48.98    | —             | 90             | 16     | 6      | namecheap        |
-| useit.cards       | available | $3.99     | —             | 94             | 7      | 6      | name.com         |
-| playin.cards      | available | $3.99     | —             | 80             | 10     | 7      | name.com         |
-| dogsick.cards     | available | $3.99     | —             | 90             | 1      | 7      | name.com         |
-| getlife.cards     | available | $3.99     | —             | 80             | 5      | 8      | name.com         |
-| leaveon.cards     | available | $3.99     | —             | 80             | 1      | 8      | name.com         |
-| rumcake.cards     | available | $3.99     | —             | 81             | 2      | 8      | name.com         |
-| skills.cards      | available | $3.99     | —             | 58             | 47     | 6      | name.com         |
-| girls.cards       | resell    | —         | —             | 83             | 23     | 5      | Porkbun LLC      |
-| jobs.cards        | premium   | $123.75   | —             | 79             | 42     | 4      | name.com         |
-| letsgo.cards      | available | $3.99     | —             | 57             | 31     | 7      | name.com         |
-| pestcontrol.cards | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| partners.cards    | premium   | $500      | —             | 61             | 31     | 8      | name.com         |
-| SanDiego.cards    | available | $3.99     | —             | 74             | 29     | 9      | name.com         |
-| tips.cards        | premium   | $500      | —             | 80             | 26     | 4      | name.com         |
-| Jim.cards         | available | $48.98    | —             | 78             | 28     | 3      | namecheap        |
-| reports.cards     | premium   | $123.75   | —             | 58             | 24     | 7      | name.com         |
-| dogs.cards        | available | $3.99     | —             | 76             | 28     | 4      | name.com         |
-| coupons.cards     | premium   | $500      | —             | 52             | 24     | 7      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| young.cards       | available | $3.99     | —             | 84             | 32     | 5      | name.com  |
+| regret.cards      | available | $3.99     | —             | 84             | 11     | 6      | name.com  |
+| effect.cards      | available | $3.99     | —             | 102            | 20     | 6      | name.com  |
+| tshirt.cards      | available | $3.99     | —             | 80             | 25     | 7      | name.com  |
+| marktwain.cards   | available | $3.99     | —             | 82             | 6      | 10     | name.com  |
+| interact.cards    | available | $3.99     | —             | 93             | 20     | 8      | name.com  |
+| might.cards       | available | $3.99     | —             | 112            | 13     | 5      | name.com  |
+| shove.cards       | available | $3.99     | —             | 82             | 7      | 5      | name.com  |
+| leave.cards       | available | $3.99     | —             | 96             | 13     | 5      | name.com  |
+| corrective.cards  | available | $3.99     | $50.99        | 86             | 3      | 10     | name.com  |
+| cherryontop.cards | available | $3.99     | —             | 82             | 9      | 13     | name.com  |
+| soil.cards        | available | $3.99     | $50.99        | 92             | 24     | 4      | name.com  |
+| xoxoxo.cards      | available | $3.99     | —             | 88             | 7      | 6      | name.com  |
+| asking.cards      | available | $3.99     | —             | 86             | 11     | 6      | name.com  |
+| tempting.cards    | available | $3.99     | $50.99        | 88             | 5      | 8      | name.com  |
+| yearly.cards      | premium   | —         | —             | 104            | 5      | 6      | —         |
+| outdoor.cards     | available | $3.99     | —             | 98             | 32     | 7      | name.com  |
+| imagination.cards | available | $3.99     | —             | 80             | 28     | 11     | name.com  |
+| ISO.cards         | premium   | —         | —             | 80             | 6      | 3      | —         |
+| distance.cards    | available | $3.99     | —             | 90             | 14     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
