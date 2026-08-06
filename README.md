@@ -1,10 +1,10 @@
-# Available .CARDS One-Word Domains (11,469)
+# Available .CARDS One-Word Domains (11,474)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C469%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C474%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cards one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,469 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,474 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,469 domains · **Median ask:** $13.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,474 domains · **Median ask:** $12.66 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/cards`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CARDS one-word domain
 
 ### Files
 
-- `cards.csv` — public CSV extract (1,000 rows)
-- `cards.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cards.csv`, public CSV extract (1,000 rows)
+- `cards.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| young.cards       | available | $3.99     | —             | 84             | 32     | 5      | name.com  |
-| regret.cards      | available | $3.99     | —             | 84             | 11     | 6      | name.com  |
-| effect.cards      | available | $3.99     | —             | 102            | 20     | 6      | name.com  |
-| tshirt.cards      | available | $3.99     | —             | 80             | 25     | 7      | name.com  |
-| marktwain.cards   | available | $3.99     | —             | 82             | 6      | 10     | name.com  |
-| interact.cards    | available | $3.99     | —             | 93             | 20     | 8      | name.com  |
-| might.cards       | available | $3.99     | —             | 112            | 13     | 5      | name.com  |
-| shove.cards       | available | $3.99     | —             | 82             | 7      | 5      | name.com  |
-| leave.cards       | available | $3.99     | —             | 96             | 13     | 5      | name.com  |
-| corrective.cards  | available | $3.99     | $50.99        | 86             | 3      | 10     | name.com  |
-| cherryontop.cards | available | $3.99     | —             | 82             | 9      | 13     | name.com  |
-| soil.cards        | available | $3.99     | $50.99        | 92             | 24     | 4      | name.com  |
-| xoxoxo.cards      | available | $3.99     | —             | 88             | 7      | 6      | name.com  |
-| asking.cards      | available | $3.99     | —             | 86             | 11     | 6      | name.com  |
-| tempting.cards    | available | $3.99     | $50.99        | 88             | 5      | 8      | name.com  |
-| yearly.cards      | premium   | —         | —             | 104            | 5      | 6      | —         |
-| outdoor.cards     | available | $3.99     | —             | 98             | 32     | 7      | name.com  |
-| imagination.cards | available | $3.99     | —             | 80             | 28     | 11     | name.com  |
-| ISO.cards         | premium   | —         | —             | 80             | 6      | 3      | —         |
-| distance.cards    | available | $3.99     | —             | 90             | 14     | 8      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| ale.cards        | available | $3.99     | —             | medium         | low    | 3      | name.com                                    |
+| eat.cards        | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                  |
+| boy.cards        | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                    |
+| cod.cards        | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| net.cards        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                 |
+| bye.cards        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| coy.cards        | available | $3.99     | $50.99        | medium         | low    | 3      | name.com                                    |
+| deck.cards       | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| DIY.cards        | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| dvd.cards        | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| monkey.cards     | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                            |
+| her.cards        | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
+| flu.cards        | available | $3.99     | —             | medium         | low    | 3      | name.com                                    |
+| diamond.cards    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
+| its.cards        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
+| icu.cards        | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| christian.cards  | resell    | —         | —             | high           | medium | 9      | Blue Razor Domains, LLC                     |
+| jan.cards        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| kgb.cards        | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| discussion.cards | resell    | —         | —             | high           | low    | 10     | Sav.com, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,469 live domains                        |
+| 1,000-row public sample | 11,474 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .cards domains. The names range from clear dictionary-style terms such as finals.cards and jewels.cards to more playful or abstract options like hahaha.cards and barup.cards. For founders, the main question is whether .cards fits the product, community, or campaign closely enough to feel natural and memorable. For investors, the key test is narrower: whether the word pairs cleanly with .cards and leaves room between acquisition cost and likely resale demand. The median ask is 13.02, so price alone is not enough. Compare clarity, commercial relevance, and whether the term creates an obvious use case on this extension.
+This list covers one-word and short-phrase .cards domains, ranging from everyday terms to playful and modern-sounding names. Most entries sit well under $500, with a median ask near $13, making direct ownership realistic for founders on a budget. Investors scanning this set will find a small number of undervalued names with large gaps between ask price and reference value, alongside thousands of lower-demand options better suited for brand-building than resale.
 
-- Prefer words that pair naturally with the .cards extension
-- Check if the term is memorable without extra explanation
-- Weigh low ask against renewal fit and resale depth
-- Be cautious with playful terms that narrow buyer demand
+- 11,474 .cards domains, 11,029 currently available
+- Median ask near $13; 10,141 priced under $500
+- 369 premium listings, 76 resale domains in this set
+- 7,251 names flagged easy to spell for quick branding
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
