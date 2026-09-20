@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cards one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,815 domains · **Median ask:** $18.80 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cards`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| feel.cards   | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
-| great.cards  | available | —         | —             | high           | high   | 5      | —                                           |
-| bang.cards   | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
-| pardon.cards | available | $3.99     | —             | high           | low    | 6      | name.com                                    |
-| heavy.cards  | available | $3.99     | —             | high           | low    | 5      | name.com                                    |
-| ale.cards    | available | $3.99     | —             | medium         | low    | 3      | name.com                                    |
-| arts.cards   | resell    | $3.99     | —             | medium         | low    | 4      | Sav.com, LLC                                |
-| boy.cards    | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                    |
-| azo.cards    | available | $3.99     | $50.99        | low            | low    | 3      | name.com                                    |
-| eat.cards    | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                  |
-| bye.cards    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
-| cod.cards    | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
-| net.cards    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                 |
-| DIY.cards    | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
-| coy.cards    | available | $3.99     | $50.99        | medium         | low    | 3      | name.com                                    |
-| deck.cards   | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| her.cards    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
-| dvd.cards    | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
-| monkey.cards | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                            |
-| its.cards    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| feel.cards    | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
+| ale.cards     | available | $3.99     | —             | medium         | low    | 3      | name.com                                    |
+| arts.cards    | resell    | $3.99     | —             | medium         | low    | 4      | Sav.com, LLC                                |
+| boy.cards     | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                    |
+| azo.cards     | available | $3.99     | $50.99        | low            | low    | 3      | name.com                                    |
+| eat.cards     | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                  |
+| bye.cards     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| cod.cards     | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| net.cards     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                 |
+| diy.cards     | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| coy.cards     | available | $3.99     | $50.99        | medium         | low    | 3      | name.com                                    |
+| deck.cards    | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| her.cards     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
+| dvd.cards     | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
+| monkey.cards  | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                            |
+| its.cards     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
+| flu.cards     | available | $3.99     | —             | medium         | low    | 3      | name.com                                    |
+| diamond.cards | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
+| jan.cards     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| icu.cards     | available | $3.99     | —             | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARDS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
