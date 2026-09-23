@@ -13,7 +13,7 @@ c3538bd8-07d3-44a5-9f3c-da896a361110,theft.cards,available,38.99,38.99,low,low,5
 42485b48-088c-43a5-9890-848454c4047a,cannot.cards,available,3.99,,high,low,6,name.com,,,
 4d512906-fb85-4764-9c05-abe47841099f,hazard.cards,available,3.99,,medium,low,6,name.com,,,
 9d2f6317-535b-482c-9e70-7c1d852d34d8,confounded.cards,available,3.99,50.99,low,low,10,name.com,,,07/08/2026 11:57
-e60205d1-01e2-4dfd-b7e1-620bac9ede51,shrewd.cards,available,3.99,,medium,low,6,name.com,,,
+e60205d1-01e2-4dfd-b7e1-620bac9ede51,shrewd.cards,available,38.99,38.99,low,low,6,namesilo,,,22/09/2026 10:37
 70281fd0-9ab8-4b27-980d-996e0096d0e7,wages.cards,available,3.99,,high,low,5,name.com,,,
 ee0916d1-f5e2-461e-84c7-05fa03c85180,panther.cards,available,3.99,,medium,low,7,name.com,,,
 135f25ea-0c18-4810-aef5-d530b8a69d74,cairo.cards,available,3.99,,medium,low,5,name.com,,,
@@ -33,7 +33,7 @@ da886e00-5757-410f-a0b9-5bef1741c0f6,given.cards,available,3.99,,high,low,5,name
 cd3e6f26-87b4-4822-82be-902c0c3181b2,babyfaced.cards,available,3.99,50.99,low,low,10,name.com,,,08/08/2026 03:48
 fa1c7dda-8dbb-4468-8a07-54b6e5550a0e,identifier.cards,available,3.99,,high,low,10,name.com,,,
 8adb2691-2802-4cfc-b69c-75ad90380b96,atpeace.cards,available,3.99,,high,low,8,name.com,,,
-62969229-df8a-445a-9ed3-f87c7364c426,terribly.cards,available,3.99,,medium,low,8,name.com,,,
+62969229-df8a-445a-9ed3-f87c7364c426,terribly.cards,available,38.99,38.99,low,low,8,namesilo,,,22/09/2026 15:23
 a87d757e-e951-48a7-a0c9-f4a922b7d8c7,confirmed.cards,available,3.99,50.99,medium,low,9,name.com,,,
 799a3548-426e-4874-be52-fc9693aaaa83,adjunctive.cards,available,3.99,50.99,low,low,10,name.com,,,
 255f46cc-1fca-4a47-92c1-fc59625c00bf,covered.cards,available,3.99,50.99,high,low,7,name.com,,,
@@ -44,7 +44,7 @@ a87d757e-e951-48a7-a0c9-f4a922b7d8c7,confirmed.cards,available,3.99,50.99,medium
 e6ea4c4f-373b-4999-aa69-57393ca812fc,interact.cards,available,3.99,,high,low,8,name.com,,,
 fd307c2c-7965-4d14-978b-998c588393cf,bye.cards,premium,118.8,118.8,high,low,3,namesilo,,,
 c9ce6c10-5856-4566-a27a-940bfa0b8b73,communicationmix.cards,available,3.99,,high,low,17,name.com,,,
-5254d19e-7986-45c6-8a7a-8493f464066d,accessible.cards,available,3.99,50.99,high,low,10,name.com,,,
+5254d19e-7986-45c6-8a7a-8493f464066d,accessible.cards,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 15:38
 05e26960-19c1-42af-8f81-5bf6e20534e2,upc.cards,available,3.99,,high,low,3,name.com,,,
 32f463e3-e3cb-42be-b6ba-a4a25dd77ee4,antimonic.cards,available,3.99,50.99,low,low,9,name.com,,,
 a2aa924c-1b9c-49dc-bb9f-aa51aad83e7c,might.cards,available,3.99,,high,low,5,name.com,,,
@@ -83,7 +83,7 @@ f8b06759-20da-44e7-a1fc-e196fcfb5696,formless.cards,available,3.99,50.99,low,low
 b32e4341-f670-4cbb-a71c-879c5cbab27a,ageold.cards,available,3.99,50.99,low,low,7,name.com,,,
 2d826db9-b7ce-4f59-a821-4fbda08db275,calf.cards,available,3.99,,high,low,4,name.com,,,
 c22916ca-69ff-4893-924b-6ead8624e173,barring.cards,available,3.99,,medium,low,7,name.com,,,
-23d93b2f-117a-4f56-9481-eb2c6b6e6a79,tempting.cards,available,3.99,50.99,high,low,8,name.com,,,
+23d93b2f-117a-4f56-9481-eb2c6b6e6a79,tempting.cards,available,38.99,38.99,medium,low,8,namesilo,,,22/09/2026 01:44
 007017c4-39a6-4f59-88bc-1e8e66a7440a,yearly.cards,available,,,high,low,6,,,,
 0a98cfdf-fc3a-42eb-8dde-0870ccea94f6,outdoor.cards,available,3.99,,high,low,7,name.com,,,
 fee72aac-2285-46d5-8079-a899f6e28e04,beborn.cards,available,3.99,,medium,low,7,name.com,,,
@@ -108,14 +108,14 @@ d7bdecfb-7a3a-4004-9df1-2d92db1ccd3f,aldermanly.cards,available,3.99,50.99,low,l
 f87baf08-8c1d-42fa-996e-84b8574146d7,concern.cards,available,3.99,,high,low,7,name.com,,,
 3de812f5-be4f-4fb6-a3e1-a8a172186a2a,junction.cards,available,38.99,38.99,low,low,8,namesilo,,,08/09/2026 09:48
 7b398593-9f3d-460b-b826-dba83e376e44,showandtell.cards,available,3.99,,high,low,13,name.com,,,
-8b6f810a-ed82-4701-929c-535fe4c033de,substitute.cards,available,3.99,50.99,high,low,10,name.com,,,
+8b6f810a-ed82-4701-929c-535fe4c033de,substitute.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 02:40
 49b03281-2331-44f6-abed-c567059a8d4d,feel.cards,available,3.99,,high,low,4,name.com,,,
 b6ce675a-8d92-4b57-a682-fd85ef20fc96,bloodstream.cards,available,3.99,,medium,low,11,name.com,,,
 ace90789-7580-40e5-8384-4dfd407a6c5f,earshaped.cards,available,3.99,50.99,low,low,10,name.com,,,07/08/2026 18:02
 44977dfe-abdf-442a-a3c6-f8d5c51a4e0c,ladder.cards,available,3.99,,high,low,6,name.com,,,
 f60a28eb-dbd9-4cff-9d55-d480e7f4c31f,simultaneously.cards,available,3.99,,low,low,14,name.com,,,
 b9da4aba-608f-44ac-90d8-af802d0a15da,wanting.cards,available,3.99,,high,low,7,name.com,,,
-1a78f973-0f09-4aad-a584-d0727ca0140f,ageing.cards,available,3.99,50.99,high,low,6,name.com,,,
+1a78f973-0f09-4aad-a584-d0727ca0140f,ageing.cards,available,38.99,38.99,low,low,6,namesilo,,,21/09/2026 22:43
 da523cdf-cfa9-4183-b991-5a6df1783f94,affined.cards,available,3.99,50.99,low,low,7,name.com,,,
 bb0a869c-0874-4f82-bed1-ad01966ef73b,rodshaped.cards,available,3.99,50.99,low,low,10,name.com,,,08/08/2026 05:07
 9fd1974d-aa2f-4b58-9459-c25fa67d1bc0,allegretto.cards,available,3.99,50.99,low,low,10,name.com,,,
@@ -145,7 +145,7 @@ d0f7a51f-d0be-447b-840d-9ca67e660ed3,rideshare.cards,available,3.99,,high,low,9,
 9786a9af-e48a-40b3-b631-4eda3c3e158d,quadruplet.cards,available,3.99,50.99,low,low,10,name.com,,,
 478fbdb5-bfc6-435b-bed5-7b61316ac774,sportsday.cards,available,3.99,,high,low,10,name.com,,,
 8c7480bc-5f61-401d-b3c3-a5ee65a416e7,biology.cards,available,3.99,,high,low,7,name.com,,,
-43a03ce2-d04a-46cd-8462-30e935417782,esthetic.cards,available,3.99,50.99,high,low,8,name.com,,,
+43a03ce2-d04a-46cd-8462-30e935417782,esthetic.cards,available,40.98,48.98,medium,low,8,namecheap,,,21/09/2026 21:16
 a53d5336-be22-44de-81aa-e4e5bc1328b8,mentor.cards,available,,,high,low,6,,,,
 416c1db3-b283-49f9-a120-bcd0820d1aab,makefunof.cards,available,3.99,,high,low,11,name.com,,,
 6ccfb668-0ef6-4ebf-90ce-ff575219447e,knotty.cards,available,3.99,50.99,low,low,6,name.com,,,08/08/2026 08:12
@@ -162,7 +162,7 @@ f6f1cbb9-ef38-4f8d-8664-360c44b686f3,recumbent.cards,available,3.99,50.99,low,lo
 6e3e07ac-a96b-4885-a88c-4634fbc934dd,bucolic.cards,available,3.99,50.99,low,low,7,name.com,,,06/08/2026 14:14
 58458125-0f84-4389-b5d0-dfe02bd6ba8e,ninetieth.cards,available,3.99,50.99,low,low,9,name.com,,,
 5e97720a-4d3a-486f-b299-c2097c641e75,antiblack.cards,available,3.99,50.99,low,low,9,name.com,,,
-b15a31d7-869e-42c2-b032-e86c664a8a47,realizable.cards,available,3.99,50.99,high,low,10,name.com,,,
+b15a31d7-869e-42c2-b032-e86c664a8a47,realizable.cards,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 15:51
 bb66d780-53dd-49f6-989e-29c66c881aad,yougotthis.cards,available,3.99,,low,low,12,name.com,,,
 7ccdd9c8-f57c-4902-a7d5-cc044e863333,richmond.cards,available,3.99,,medium,low,8,name.com,,,
 277ec254-7821-4a50-b9b9-50e3914be9d2,mouthless.cards,available,3.99,50.99,low,low,9,name.com,,,07/08/2026 09:50
@@ -180,11 +180,11 @@ cfab00ea-e408-4820-8832-c17c306d1623,christian.cards,resell,,,high,medium,9,"Blu
 d7c7d799-dd4e-4ab2-b5d7-c623fcedea11,bahreini.cards,available,3.99,50.99,low,low,8,name.com,,,08/08/2026 08:41
 c5d1e895-b28a-4847-b7c7-be01486e72b5,lookunderrocks.cards,available,3.99,,medium,low,16,name.com,,,
 ecf050cc-8aaa-4f01-8cae-216b7d332537,helmethair.cards,available,3.99,,medium,low,11,name.com,,,
-dc5ffc78-ac78-4853-9747-28ba7d0dbdd1,abomb.cards,available,3.99,,high,low,6,name.com,,,
+dc5ffc78-ac78-4853-9747-28ba7d0dbdd1,abomb.cards,available,3.99,,medium,low,6,name.com,,,
 ff452fae-0140-48d4-8bfe-a76ea82d3b6c,burred.cards,available,3.99,50.99,low,low,6,name.com,,,08/08/2026 17:23
 4bdab1e1-a3e9-413b-8cdb-6a59cf1dae15,twist.cards,available,3.99,,high,low,5,name.com,,,
 e22dba52-083f-4651-b3cf-6e8f4baf9c50,asteroidal.cards,available,3.99,50.99,low,low,10,name.com,,,07/08/2026 09:10
-65688024-2920-431e-a6e1-000e9f68bcda,whizz.cards,available,3.99,50.99,high,low,5,name.com,,,
+65688024-2920-431e-a6e1-000e9f68bcda,whizz.cards,available,40.98,48.98,medium,low,5,namecheap,,,21/09/2026 18:06
 ddedc2c3-92c4-40bd-b502-fecfd3f1d424,batholitic.cards,available,3.99,50.99,low,low,10,name.com,,,09/08/2026 01:30
 d8bb61e6-3a5c-46e6-8c80-d73dfa047fee,worthit.cards,available,3.99,,medium,low,8,name.com,,,
 2c909017-6a79-414f-a66e-fa7fd897465c,diving.cards,available,3.99,,high,low,6,name.com,,,
@@ -194,7 +194,7 @@ a767e3d3-648e-4be0-a3ba-e559cd0750e8,serveup.cards,available,3.99,,high,low,8,na
 a8a0f259-ff09-4c4a-8fd9-727cee8cec5a,slacking.cards,available,3.99,,medium,low,8,name.com,,,
 097c167c-509d-4a03-b064-e1740c8904d5,wastebasket.cards,available,3.99,,high,low,11,name.com,,,
 7c837dc4-34d6-4958-8b08-ee286c3b217d,disregarded.cards,available,3.99,,medium,low,11,name.com,,,
-64c0e9e6-ed69-4c77-b77b-e4156840f7f3,outdoors.cards,available,3.99,50.99,high,low,8,name.com,,,
+64c0e9e6-ed69-4c77-b77b-e4156840f7f3,outdoors.cards,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 23:54
 7f95c850-31b0-4774-8012-a5b6dda1f9f7,identified.cards,available,3.99,,medium,low,10,name.com,,,
 8fa74224-6d71-4ed2-8bb3-ddb05f10286c,taxswap.cards,available,3.99,,medium,low,8,name.com,,,
 a356ba40-90df-4b9c-b5a2-0b912258dfa6,participant.cards,available,3.99,,high,low,11,name.com,,,
@@ -220,25 +220,24 @@ f49079a1-fde3-4c43-837f-39f55bfa8059,myapologies.cards,available,3.99,,high,low,
 cad7826f-8e95-4610-81fd-5277eecdf3da,sixth.cards,available,3.99,50.99,low,low,5,name.com,,,
 1f9175ba-4c39-4f0c-837b-c9291725d874,revealing.cards,available,3.99,,high,low,9,name.com,,,
 dd1a4310-dd55-4b6d-a92b-014faef23036,deck.cards,resell,,,high,low,4,GoDaddy Online Services Cayman Islands Ltd.,05/08/2015 02:17,05/08/2027 02:17,20/09/2026 12:27
-cb0074c4-5719-452c-a49b-0e105946ace4,accommodate.cards,available,3.99,,high,low,11,name.com,,,
+cb0074c4-5719-452c-a49b-0e105946ace4,accommodate.cards,available,3.99,,medium,low,11,name.com,,,
 987765fa-9c80-43ba-93dc-5b5b2e233928,illusion.cards,available,3.99,,medium,low,8,name.com,,,
 4115361d-504c-4340-b725-9794867466e8,thunder.cards,available,3.99,,medium,low,7,name.com,,,
-c551d667-af1d-47e4-a10c-d645c25d14b2,fierce.cards,available,3.99,,high,low,6,name.com,,,
-097c1bd5-81c5-4b50-8dfe-dda4a4152326,beatenup.cards,available,3.99,,medium,low,9,name.com,,,
+c551d667-af1d-47e4-a10c-d645c25d14b2,fierce.cards,available,40.98,48.98,low,low,6,namecheap,,,23/09/2026 01:48
+097c1bd5-81c5-4b50-8dfe-dda4a4152326,beatenup.cards,available,40.98,48.98,low,low,9,namecheap,,,22/09/2026 18:22
 7ebb8a5a-7b16-4831-8263-876204dc5b98,rely.cards,available,3.99,,high,low,4,name.com,,,
 5a5c334f-4f96-4ab9-a8a0-3110b5779bca,minecraft.cards,available,,,high,low,9,,,,
 5a500b5c-14dc-45f4-ac4c-b32975d2c3a7,carriage.cards,available,3.99,,medium,low,8,name.com,,,
 cc6d8a37-56f9-4b59-bb5a-621aa5f8b6aa,rustic.cards,available,3.99,50.99,low,low,6,name.com,,,
 9fc082c6-e0e7-475c-83c4-98ad53cfffd0,albanian.cards,available,3.99,50.99,low,low,8,name.com,,,
 942755e6-6c03-47a0-9e4a-66a19988b9bc,openbar.cards,available,3.99,,high,low,8,name.com,,,
-ffb8a1a8-b1a0-4d61-ba47-f696b9eaef4c,smash.cards,available,3.99,,high,low,5,name.com,,,
 9ecd9dd4-ca04-46a3-a49a-544c351a5fd9,beach.cards,available,3.99,,medium,low,5,name.com,,,
 eba17da7-8b39-4ddc-980e-7ae012439055,butif.cards,available,3.99,,medium,low,6,name.com,,,
 21179c36-4d37-4f20-87da-6238c24706ba,altissimo.cards,available,3.99,50.99,low,low,9,name.com,,,
 198b9eae-66bd-4d1c-96a8-7587c7cde1c7,interested.cards,available,3.99,,high,low,10,name.com,,,
 c13c103a-23bd-48f7-b549-639b4a2aa55a,cleaner.cards,available,3.99,,high,low,7,name.com,,,
 99230310-710a-47b7-8309-122647b8e70b,seeingas.cards,available,3.99,,medium,low,9,name.com,,,
-83a9cf2b-b771-48e6-b3d3-6eefccb350e8,esthetical.cards,available,3.99,50.99,high,low,10,name.com,,,
+83a9cf2b-b771-48e6-b3d3-6eefccb350e8,esthetical.cards,available,40.98,48.98,medium,low,10,namecheap,,,21/09/2026 21:22
 06418542-6f31-4c10-b901-4d5f58c3fafa,valueable.cards,available,3.99,,high,low,9,name.com,,,
 a646be16-f4a4-4037-89b7-1b761a97463f,pamper.cards,available,3.99,,high,low,6,name.com,,,
 efb0d0d5-5039-40d6-b402-41a8c1647c25,resultant.cards,available,3.99,50.99,low,low,9,name.com,,,
@@ -269,12 +268,11 @@ aab8d77c-45bf-4957-9891-cb4d94da9712,abreast.cards,available,3.99,50.99,low,low,
 a5b80258-4047-410c-8e30-d8649d2dfc2f,coffeetablebook.cards,available,3.99,,high,low,17,name.com,,,
 a17c2457-88c0-474f-a21b-fafd71137cee,adjuratory.cards,available,3.99,50.99,low,low,10,name.com,,,
 d6bb1c85-5f58-4b55-8283-b095274f577b,holding.cards,available,3.99,,high,low,7,name.com,,,
-de402a20-afee-485e-93b6-e4001c72915b,converted.cards,available,3.99,,medium,low,9,name.com,,,
+de402a20-afee-485e-93b6-e4001c72915b,converted.cards,available,38.99,38.99,low,low,9,namesilo,,,23/09/2026 00:43
 d07e9132-a8aa-4a57-b075-98990fa2239b,oreo.cards,available,,,high,low,4,,,,
 54a54b34-80ea-48da-9b85-53cee9b53b9a,upabove.cards,available,3.99,,low,low,8,name.com,,,
-e919ee1a-e391-448f-81d0-33cdcc8352c5,diamond.cards,resell,,,high,low,7,"GoDaddy.com, LLC",27/02/2018 02:45,27/02/2028 02:45,
+e919ee1a-e391-448f-81d0-33cdcc8352c5,diamond.cards,resell,,,medium,low,7,"GoDaddy.com, LLC",27/02/2018 02:45,27/02/2028 02:45,21/09/2026 16:47
 b1110613-24f7-4b76-8bf3-5c77706eaecc,glittering.cards,available,3.99,50.99,low,low,10,name.com,,,
-d040b222-3c3c-4dc1-b8ae-86e3c95af84d,trinity.cards,available,3.99,50.99,high,low,7,name.com,,,
 0b68c59a-9ae1-4ea3-9c8a-f4b01ad7e11f,greatly.cards,available,3.99,,high,low,7,name.com,,,
 a56b04c2-e722-4d94-a797-31c8867e379c,atrip.cards,available,3.99,50.99,low,low,5,name.com,,,07/08/2026 14:33
 398c890b-c071-403d-a6d0-0361c6958987,affected.cards,available,3.99,50.99,low,low,8,name.com,,,
@@ -329,12 +327,12 @@ fbd30060-70c8-4f42-99e9-3cdf800eebb6,voting.cards,premium,118.8,118.8,high,low,6
 cd9c9738-d53f-4559-83f3-b357cab87a1e,unfounded.cards,available,3.99,50.99,low,low,9,name.com,,,08/08/2026 21:57
 c96dff9a-082d-4643-a803-706115c455b0,unshakable.cards,available,3.99,,high,low,10,name.com,,,
 1d3b9329-1a63-4a17-93fa-c18fd10e9b06,merely.cards,available,3.99,,medium,low,6,name.com,,,
-90df79ec-b51a-4dc0-b04a-3f8508307c65,absurd.cards,available,3.99,46.99,high,low,6,name.com,,,
+90df79ec-b51a-4dc0-b04a-3f8508307c65,absurd.cards,available,3.99,46.99,medium,low,6,name.com,,,
 dbbb86f0-a7e6-4793-94f9-bfe5a58b32ba,tilted.cards,available,3.99,50.99,low,low,6,name.com,,,07/08/2026 13:29
 6dc59bb6-e6a9-4408-9c0a-5cd434ea9e32,sweettea.cards,available,3.99,,medium,low,9,name.com,,,
 c0fe41a4-59d8-42ec-9e48-c77c8fc75296,oilandwater.cards,available,3.99,,low,low,13,name.com,,,
 6e5ae560-ce7b-4f81-902c-ea37114651bc,arts.cards,resell,3.99,,medium,low,4,"Sav.com, LLC",24/06/2026 18:30,24/06/2027 18:30,19/09/2026 04:18
-f5c31853-bb9f-4baa-8364-3472e80b8ddd,surrogate.cards,available,3.99,50.99,high,low,9,name.com,,,
+f5c31853-bb9f-4baa-8364-3472e80b8ddd,surrogate.cards,available,38.99,38.99,low,low,9,namesilo,,,22/09/2026 02:27
 c6ffa1d1-67e1-406c-bbb6-7d68bffbd3f0,outer.cards,available,3.99,,high,low,5,name.com,,,
 7ae17e3a-cf41-4e20-9140-e4c59f13f42d,grandniece.cards,available,3.99,,high,low,10,name.com,,,
 4b5998f1-0624-4e86-9e06-f31faf1a77e1,ideally.cards,available,3.99,,medium,low,7,name.com,,,
@@ -345,7 +343,7 @@ cededea5-d3b9-409a-95b6-428abafe446e,arena.cards,available,,,high,low,5,,,,
 da110a4f-142c-42f8-8daf-192d9f388891,nation.cards,premium,500,,high,low,6,name.com,,,
 27b69b8a-c875-4c50-9196-cd8dc078b725,parents.cards,available,3.99,,medium,low,7,name.com,,,
 b6823f11-c71a-4b4a-a9ce-0247eccbadfe,turtlenecksweater.cards,available,3.99,,high,low,18,name.com,,,
-df65bc95-6525-4d34-a7e2-e6ad9f2bdfc8,before.cards,available,3.99,50.99,high,low,6,name.com,,,
+df65bc95-6525-4d34-a7e2-e6ad9f2bdfc8,before.cards,available,38.99,38.99,medium,low,6,namesilo,,,21/09/2026 23:34
 ee402fcf-f8a8-413a-a571-6899b51691a1,asia.cards,available,,,high,low,4,,,,
 cf385189-85f8-4d8b-99a7-e1c6397ea7de,fatuous.cards,available,3.99,50.99,low,low,7,name.com,,,07/08/2026 02:39
 b126ae77-fdcc-4208-a003-271997508675,touchbase.cards,available,3.99,,medium,low,10,name.com,,,
@@ -366,7 +364,7 @@ ad4ebd6d-6fcc-43b9-8f73-d22c29720587,noticeable.cards,available,3.99,50.99,mediu
 10b08e6a-6184-4677-9bdd-d6bcacb7e316,sise.cards,available,3.99,50.99,low,low,4,name.com,,,
 5c1fe1ec-bc1a-4c48-bec7-856e31b8f104,upsidedowncake.cards,available,3.99,,high,low,16,name.com,,,
 8b9c9c20-0084-4a59-a72e-f184440f0c3a,dslr.cards,available,3.99,,high,low,4,name.com,,,
-befdd511-71df-4fe6-9108-ad6f41bf3f1e,xviii.cards,available,3.99,50.99,medium,low,5,name.com,,,
+befdd511-71df-4fe6-9108-ad6f41bf3f1e,xviii.cards,available,38.99,38.99,low,low,5,namesilo,,,21/09/2026 12:00
 65b68e49-1196-4459-94ce-cf5105a88eaf,givein.cards,available,3.99,,high,low,7,name.com,,,
 3c253ad1-2d69-4fee-be2b-ced3c56a2738,sideways.cards,available,3.99,50.99,high,low,8,name.com,,,
 26150634-4c01-4780-a156-f0cc6ebd8c13,spectral.cards,available,,,medium,low,8,,,,
@@ -374,7 +372,7 @@ befdd511-71df-4fe6-9108-ad6f41bf3f1e,xviii.cards,available,3.99,50.99,medium,low
 403ae199-eaff-4bb7-867a-51ff11c408e3,asof.cards,available,3.99,,medium,low,5,name.com,,,
 8907de21-21cf-45eb-8f47-978679152f53,silverprint.cards,available,3.99,,low,low,12,name.com,,,
 9005a304-908c-445f-8222-b09306414f4e,thereagain.cards,available,3.99,,low,low,11,name.com,,,
-43815a75-9a67-4206-b0e2-42302e191185,wealthy.cards,available,3.99,50.99,high,low,7,name.com,,,
+43815a75-9a67-4206-b0e2-42302e191185,wealthy.cards,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 21:57
 58ed2256-f898-45c9-a210-11ac5f229cd8,overagain.cards,available,40.98,48.98,low,low,10,namecheap,,,13/09/2026 18:13
 2125c75e-e116-48d6-91ab-b197f0af0814,morethan.cards,available,3.99,,medium,low,9,name.com,,,
 d207a8f4-04fc-4182-a168-c798cfc8e2ec,halt.cards,available,3.99,50.99,medium,low,4,name.com,,,
@@ -382,14 +380,13 @@ d207a8f4-04fc-4182-a168-c798cfc8e2ec,halt.cards,available,3.99,50.99,medium,low,
 55e4a350-1031-49e4-912a-9a6327be81d4,cod.cards,available,3.99,,high,low,3,name.com,,,
 f2e670ea-7c22-4413-94e3-be882367d050,name.cards,available,,,high,low,4,,,,
 dbfdf3e2-82d4-42f2-87c7-d06239b592b2,mother.cards,available,,,high,low,6,,,,
-9d82df81-ca23-42bb-9dfe-96d55f875c05,stretch.cards,available,3.99,50.99,high,low,7,name.com,,,
+9d82df81-ca23-42bb-9dfe-96d55f875c05,stretch.cards,available,40.98,48.98,medium,low,7,namecheap,,,21/09/2026 20:13
 cc41e788-1731-4c03-a976-6cfe1583fd93,middleeastern.cards,available,3.99,,medium,low,14,name.com,,,
 5664b7d3-574b-4689-ae51-948406e99089,awny.cards,available,3.99,50.99,low,low,4,name.com,,,08/08/2026 01:25
 c64fe220-c941-4b34-aead-e045228049af,smell.cards,available,3.99,,high,low,5,name.com,,,
 97108e74-4142-456f-9a88-91457abc1d77,reflexively.cards,available,3.99,,low,low,11,name.com,,,
 489109d4-4892-440c-b8be-a7430779836e,xxxvi.cards,available,3.99,50.99,low,low,5,name.com,,,
 407a4e24-db53-4f0f-ba81-9cf0078c3b3b,spellingword.cards,available,3.99,,medium,low,13,name.com,,,
-4f90beda-9f96-49c2-990a-4b26e2dcf48d,boring.cards,available,,,medium,high,6,,,,
 b7f96f98-0db4-4a65-b920-8aac52493883,lxiii.cards,available,3.99,50.99,low,low,5,name.com,,,
 f727512b-4d5f-4cfe-959e-f6cdb1c991be,she.cards,premium,118.8,118.8,high,low,3,namesilo,,,
 7f460a21-8fc4-447f-ba7b-565150e314aa,fearful.cards,available,3.99,50.99,high,low,7,name.com,,,
@@ -422,11 +419,11 @@ df8fe331-777d-4b3a-9e3c-27086a703a5d,keepsomeonecompany.cards,available,3.99,,hi
 d076af49-3cb6-4afd-ba56-8508d6496405,anaphasic.cards,available,3.99,50.99,low,low,9,name.com,,,
 9bbf8615-ff8f-471a-8f54-acc74cb7f8e7,thorny.cards,available,3.99,50.99,low,low,6,name.com,,,08/08/2026 17:55
 5d0e0721-246a-473c-bfab-360963045de5,comeupwith.cards,available,3.99,,high,low,12,name.com,,,
-cc044af2-e453-48e2-b4d0-854a6a77dc65,august.cards,premium,78.54,78.54,high,low,6,namesilo,,,
+cc044af2-e453-48e2-b4d0-854a6a77dc65,august.cards,premium,85.8,85.8,low,low,6,namecheap,,,22/09/2026 12:44
 791a27e8-fbeb-47d2-bc51-c2c370d6d6e8,anaemia.cards,available,3.99,,medium,low,7,name.com,,,
 34d8e31f-4ec6-40b8-b0ae-e7423a0f10af,sounded.cards,available,3.99,,low,low,7,name.com,,,
 4a5d6492-5e00-4fff-9820-54c733ca4ab3,adrenergic.cards,available,3.99,50.99,low,low,10,name.com,,,
-d0734951-3dea-424d-a5e5-9d446d6fec70,alterable.cards,available,3.99,50.99,high,low,9,name.com,,,
+d0734951-3dea-424d-a5e5-9d446d6fec70,alterable.cards,available,38.99,38.99,low,low,9,namesilo,,,22/09/2026 02:18
 b559f19e-bc6a-4e65-9c82-8dc6e6e084e6,represent.cards,available,3.99,,high,low,9,name.com,,,
 4778824f-5ea5-430e-b27c-b2d025e16843,pungent.cards,available,3.99,50.99,low,low,7,name.com,,,
 c99a64ba-4564-4f3d-afbf-3de3f8dcc45b,discard.cards,premium,78.54,78.54,high,low,7,namesilo,,,
@@ -485,35 +482,37 @@ dfef20aa-4825-4b2e-8ee9-a08300974dd6,beon.cards,available,3.99,,high,low,5,name.
 79e0131f-4aa1-4d86-9234-ff1989a44c1b,babybottle.cards,available,3.99,,high,low,11,name.com,,,
 90222e92-4f32-4875-a354-5015ea339c6f,miffed.cards,available,3.99,50.99,low,low,6,name.com,,,
 6b19577c-50da-461a-9cb1-c1da0c12970d,bahraini.cards,available,3.99,50.99,low,low,8,name.com,,,08/08/2026 08:36
-06632950-cb8b-4f12-a0cc-b77e51e7055b,antiseptic.cards,available,3.99,,high,low,10,name.com,,,
-1bee4bae-7f0c-4ee7-83e7-fce19e15ca35,wet.cards,premium,78.54,78.54,high,low,3,namesilo,,,
+06632950-cb8b-4f12-a0cc-b77e51e7055b,antiseptic.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 06:54
+1bee4bae-7f0c-4ee7-83e7-fce19e15ca35,wet.cards,premium,85.8,85.8,medium,low,3,namecheap,,,22/09/2026 19:43
 c440e85d-2427-409f-8bb7-4bd90863da8a,identical.cards,available,3.99,,high,low,9,name.com,,,
 a099a4e1-0dc5-45c1-b868-aa3ef8ee7180,net.cards,resell,,,high,medium,3,Porkbun LLC,21/02/2017 21:01,21/02/2027 21:01,
-0c09c938-0478-4b8a-b8ba-ed5de1e32213,fillin.cards,available,3.99,,high,low,7,name.com,,,
+0c09c938-0478-4b8a-b8ba-ed5de1e32213,fillin.cards,available,38.99,38.99,low,low,7,namesilo,,,21/09/2026 16:17
 14475d4d-6b4a-4fe4-b4e4-a5ef28b15f1e,letterbox.cards,available,3.99,,medium,low,10,name.com,,,
 3304f179-28fd-4447-a97c-15c74030892f,recommendation.cards,available,3.99,,low,low,14,name.com,,,
 8becd66d-f7c0-40d3-9008-89522e1af5fe,successes.cards,available,3.99,,low,low,9,name.com,,,
 d6380bc7-c8a2-4c84-adbe-0a314302d7ac,basement.cards,available,3.99,,medium,low,8,name.com,,,
+640c34cf-b00f-4b3b-be6e-4698868e6563,joke.cards,resell,,,medium,low,4,"Sav.com, LLC",24/06/2026 20:30,24/06/2027 20:30,22/09/2026 06:20
 944a9cdc-31cd-4349-b94b-d2272be151a9,feature.cards,available,3.99,,high,low,7,name.com,,,
 de3c59b1-353a-47fe-a139-eeb13a2cfe23,pete.cards,available,3.99,,high,low,4,name.com,,,
 eef06d02-22ad-4eaf-93ca-9745b3446814,courteous.cards,available,3.99,50.99,high,low,9,name.com,,,
 ea71d0c5-19b7-4740-a0ca-b425ffac70a2,sourcecode.cards,available,38.99,38.99,medium,low,11,namesilo,,,08/09/2026 07:26
 78e5ea8b-ca75-4a1a-a2d8-aab2d7164313,thisone.cards,available,3.99,,low,low,8,name.com,,,
 ce757c56-0035-4c52-b335-191af3c0bcc8,supervise.cards,available,3.99,,high,low,9,name.com,,,
-f8bde7c6-60d5-4783-91ef-c4731f90659b,acappella.cards,available,3.99,50.99,medium,low,10,name.com,,,
+f8bde7c6-60d5-4783-91ef-c4731f90659b,acappella.cards,available,40.98,48.98,low,low,10,namecheap,,,21/09/2026 13:25
 3e1189d1-fd32-40bc-a785-8b7568064053,resignation.cards,available,3.99,,medium,low,11,name.com,,,
 c4cbc34a-6b98-418f-8b5b-8116ba688d89,society.cards,available,3.99,,high,low,7,name.com,,,
 43005a44-a430-443a-bbd4-09bd3fee0ed3,windowseat.cards,available,3.99,,high,low,11,name.com,,,
+a9b60b4a-fd2d-4c0a-a66b-0f51d15f37c2,awake.cards,available,40.98,48.98,medium,low,5,namecheap,,,22/09/2026 14:37
 8d8a77ea-0418-4251-af18-2d18a81842a5,considered.cards,available,3.99,50.99,high,low,10,name.com,,,
 111d1759-4731-4a23-a088-839940f7b922,relating.cards,available,3.99,,medium,low,8,name.com,,,
-7e9c9c38-b957-4874-87b3-e58087f861db,admirable.cards,available,3.99,50.99,high,low,9,name.com,,,
+7e9c9c38-b957-4874-87b3-e58087f861db,admirable.cards,available,38.99,38.99,medium,low,9,namesilo,,,21/09/2026 18:46
 d478f997-70d8-47af-9ce0-83593a1c29de,hater.cards,available,3.99,,medium,low,5,name.com,,,
 ffb6d85c-f820-4fec-abd6-8cefc28a6632,sufferable.cards,available,3.99,50.99,low,low,10,name.com,,,09/08/2026 04:38
 4213737a-be20-4437-9a60-8f7d59f64532,cowboy.cards,available,3.99,,high,low,6,name.com,,,
 0ad4ab58-0ae0-4d39-b759-9a3195da463f,talks.cards,available,3.99,,high,low,5,name.com,,,
 307848a4-620a-4fe8-9dc3-0c04d84a4be9,fraud.cards,available,3.99,,high,low,5,name.com,,,
 294e97d4-91f1-4943-b121-783e7a6805c3,lowkeyed.cards,available,3.99,,medium,low,9,name.com,,,
-af07866f-53c2-4587-a628-2c59a22b898e,intrepid.cards,available,3.99,,high,low,8,name.com,,,
+af07866f-53c2-4587-a628-2c59a22b898e,intrepid.cards,available,40.98,48.98,medium,low,8,namecheap,,,22/09/2026 12:24
 63cca036-4900-4380-8170-7ef5043a4aa6,kill.cards,available,3.99,50.99,medium,low,4,name.com,,,
 c1b8c4b2-24ba-4f33-a0be-9b246de75ad9,industrialize.cards,available,3.99,,medium,low,13,name.com,,,
 9a23082c-2a8a-4cb0-9603-d6953c58a61b,howgoesit.cards,available,3.99,,medium,low,11,name.com,,,
@@ -522,7 +521,7 @@ c7ed5665-e7b2-40aa-9d8c-94bec9b9cff3,scarface.cards,available,3.99,,medium,low,8
 f6ef88e7-3c29-4970-bed4-56f23d9b170f,allergist.cards,available,3.99,,medium,low,9,name.com,,,
 69e1e584-c5a7-4204-bb83-45cb966bf083,goodgod.cards,available,3.99,,high,low,8,name.com,,,
 8e785b83-f831-416c-923a-f39b647ca076,atsomepoint.cards,available,3.99,,high,low,13,name.com,,,
-dee590f5-9228-41db-8624-57772899979f,able.cards,available,3.99,50.99,high,low,4,name.com,,,
+dee590f5-9228-41db-8624-57772899979f,able.cards,available,38.99,38.99,medium,low,4,namesilo,,,21/09/2026 13:57
 48221154-cb18-49eb-a1cc-6841401a76b6,acidulent.cards,available,3.99,50.99,low,low,9,name.com,,,
 8c882732-e0e7-4377-a854-04b3d39e0f47,temperature.cards,available,3.99,,medium,low,11,name.com,,,
 bcfe85fe-8759-4b33-ab91-b3d324b0acab,frenchquarter.cards,available,3.99,,medium,low,14,name.com,,,
@@ -543,7 +542,6 @@ a00cf1b7-cb95-4a57-9a7e-cb5cb4a0e4da,bashful.cards,available,3.99,50.99,low,low,
 76c0afef-9433-4e8f-89e4-b27ea7a11128,oak.cards,premium,118.8,118.8,medium,low,3,namesilo,,,
 7fbb9fc3-dc54-425b-b16b-a6ac27a6e7df,eonian.cards,available,3.99,50.99,low,low,6,name.com,,,
 e2b5f177-fb39-47ef-9b46-c5465aa33aa9,acrosstheboard.cards,available,3.99,,high,low,16,name.com,,,
-dfcde7b4-3dc1-4b9d-8883-36a3cdc5d90b,trick.cards,available,,,high,high,5,,,,
 b704d305-f035-4e33-92e0-8bb78905e9b8,bavarian.cards,available,3.99,50.99,low,low,8,name.com,,,09/08/2026 02:00
 07a9e34e-1114-4bb5-896e-7c728a0321c1,oslo.cards,available,3.99,,medium,low,4,name.com,,,
 36b38b62-6996-4a9f-9d72-5d7618c55045,amok.cards,available,3.99,50.99,low,low,4,name.com,,,
@@ -553,13 +551,13 @@ bf318f98-5760-494a-ac40-06b3e262d8cd,newton.cards,available,3.99,,medium,low,6,n
 63b0bd3c-e851-486f-bb2a-d634dec5dcfc,avirulent.cards,available,3.99,50.99,low,low,9,name.com,,,07/08/2026 23:41
 868d1d48-4065-43d9-a848-c15571622fc2,lousy.cards,available,3.99,50.99,medium,low,5,name.com,,,
 d8a8919c-b1c1-41c1-9f10-8ed08121440a,tossaway.cards,available,3.99,,medium,low,9,name.com,,,
-95ebab3c-7fdc-456f-aad8-799b209027e8,responsive.cards,available,3.99,,high,low,10,name.com,,,
+95ebab3c-7fdc-456f-aad8-799b209027e8,responsive.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 06:49
 92d1a337-0b1b-40eb-a513-639e91b2bd2e,whotheheck.cards,available,3.99,,low,low,12,name.com,,,
 e462a460-6a24-4c57-a162-80ac90ba7328,insurancecarrier.cards,available,3.99,,medium,low,17,name.com,,,
 29f3942f-8900-4e9f-8dfa-012a5db2b921,ascetical.cards,available,3.99,50.99,low,low,9,name.com,,,07/08/2026 01:01
 939d8b92-9b6c-479c-ae85-35986b4e69cf,sham.cards,available,3.99,50.99,low,low,4,name.com,,,07/08/2026 08:06
 d1eca947-0f82-4b6c-9f52-26da49fcf25d,shaper.cards,available,3.99,,high,low,6,name.com,,,
-2f309cd7-da84-4827-ad25-17f840e443df,whatsoever.cards,available,3.99,,medium,low,10,name.com,,,
+2f309cd7-da84-4827-ad25-17f840e443df,whatsoever.cards,available,38.99,38.99,low,low,10,namesilo,,,22/09/2026 06:59
 18bb4ab9-3860-416f-bfb7-2950d35ba184,biteme.cards,available,3.99,,medium,low,7,name.com,,,
 88a3915d-6c38-4d26-b2ff-92a764592aff,experienced.cards,available,3.99,,high,low,11,name.com,,,
 ba0f9497-3a3d-403d-b632-62936e303a76,babylonian.cards,available,3.99,50.99,low,low,10,name.com,,,08/08/2026 03:58
@@ -567,9 +565,9 @@ ba0f9497-3a3d-403d-b632-62936e303a76,babylonian.cards,available,3.99,50.99,low,l
 7cde062b-ebcb-4bcf-bb40-e8b7fcb923ce,fanletter.cards,available,3.99,,medium,low,10,name.com,,,
 32d97706-c759-48dc-9fd9-ffc2e9b7a87a,thanksfornothing.cards,available,3.99,,medium,low,18,name.com,,,
 dc50b1f2-e33c-45d1-a91b-a34da20552b4,whenever.cards,available,3.99,,low,low,8,name.com,,,
-2dd48ba9-e786-403c-8d8c-eb48f25b41c9,amazed.cards,available,3.99,,high,low,6,name.com,,,
+2dd48ba9-e786-403c-8d8c-eb48f25b41c9,amazed.cards,available,38.99,38.99,low,low,6,namesilo,,,22/09/2026 03:33
 c4dea017-9ee2-4a5c-9c3f-c0b6fcb15caa,lowrise.cards,available,3.99,,high,low,8,name.com,,,
-06e5877f-fbd0-451e-a609-d5016456c1e6,annual.cards,available,3.99,,high,low,6,name.com,,,
+06e5877f-fbd0-451e-a609-d5016456c1e6,annual.cards,available,3.99,50.99,medium,low,6,name.com,,,22/09/2026 05:27
 a5072bed-ef66-479e-a1b7-19ddc5793082,evenchance.cards,available,3.99,,high,low,11,name.com,,,
 be6abdfb-6037-4332-8b66-11e3295431d7,thong.cards,available,3.99,,medium,low,5,name.com,,,
 2ae8d436-a503-4200-9ddc-f1a7328358a4,knew.cards,available,3.99,,medium,low,4,name.com,,,
@@ -583,7 +581,7 @@ d14f6490-ae82-466a-a108-a41436bc7872,pardon.cards,available,3.99,,high,low,6,nam
 d7e0ea0b-63a1-46ed-88ab-15302091ddcd,volkswagen.cards,available,3.99,,high,low,10,name.com,,,
 a72c2590-ec9a-425d-a59c-302f49f81cc9,heatup.cards,available,3.99,,high,low,7,name.com,,,
 4a181b3e-4ac2-4f4a-bc70-ac23abc0695e,placating.cards,available,3.99,50.99,low,low,9,name.com,,,06/08/2026 06:02
-736acff1-dc37-4022-8600-6d9340b15db6,sexy.cards,premium,500,,high,low,4,name.com,,,
+736acff1-dc37-4022-8600-6d9340b15db6,sexy.cards,premium,512,512,medium,low,4,namesilo,,,22/09/2026 07:13
 1338ad05-3e59-4ff2-b1a0-d692920ae2e1,rhiannon.cards,available,3.99,,high,low,8,name.com,,,
 04730831-7cf7-4490-8004-d9269a335762,getoutofhere.cards,available,3.99,,high,low,15,name.com,,,
 e414fa67-3c76-40da-af82-61c1681b3e09,avid.cards,available,3.99,50.99,medium,low,4,name.com,,,07/08/2026 23:21
@@ -603,7 +601,7 @@ c58d940b-b62c-456d-8ddc-0bc4b99fb3ec,pub.cards,premium,123.75,,high,low,3,name.c
 b780aae2-23a7-496b-af09-b52d518d19fa,quantity.cards,available,3.99,,medium,low,8,name.com,,,
 7b30c047-71cd-46c3-b7ad-bb97832055bd,cometoahead.cards,available,3.99,,medium,low,14,name.com,,,
 c8c6f8ad-8941-4808-860f-e424ef87b0d2,increased.cards,available,3.99,,high,low,9,name.com,,,
-81816ebe-3c4e-4146-875a-58f73107a44b,plotted.cards,available,3.99,50.99,high,low,7,name.com,,,
+81816ebe-3c4e-4146-875a-58f73107a44b,plotted.cards,available,38.99,38.99,low,low,7,namesilo,,,21/09/2026 22:10
 6e5d812a-b778-4108-9c88-bfef4501e18e,cleaver.cards,available,3.99,,medium,low,7,name.com,,,
 969a9557-4975-426a-a693-71090f6f8294,ambitiously.cards,available,3.99,,medium,low,11,name.com,,,
 1e750f37-d437-42c1-aa2c-14a1af8e2a8a,deepsleep.cards,available,3.99,,high,low,10,name.com,,,
@@ -614,7 +612,7 @@ c6d92bf4-f89f-4ba9-b4ef-00a80a2b4236,siberian.cards,available,3.99,,high,low,8,n
 5e8ff81f-51d4-4bda-8e48-9168f60cfac9,aired.cards,available,3.99,50.99,low,low,5,name.com,,,
 e60a6089-1e8b-4213-a2cd-2451f7632716,streets.cards,available,3.99,,high,low,7,name.com,,,
 2ea47a15-c256-495f-ba9d-030915452fcc,fiftyfifty.cards,available,3.99,,high,low,11,name.com,,,
-a1445172-47d1-4306-ad41-1779b523bb4e,larger.cards,available,3.99,,high,low,6,name.com,,,
+a1445172-47d1-4306-ad41-1779b523bb4e,larger.cards,available,40.98,48.98,medium,low,6,namecheap,,,22/09/2026 20:38
 92ed4225-f48c-4fc9-9a20-c3b55a76bafb,abortive.cards,available,3.99,50.99,low,low,8,name.com,,,
 d23826e1-5867-4f86-87ee-c0299b4020e9,sophisticated.cards,available,3.99,,high,low,13,name.com,,,
 5d68d414-592c-4f2d-94eb-29f9450bd926,newdelhi.cards,available,3.99,,medium,low,9,name.com,,,
@@ -623,18 +621,18 @@ d23826e1-5867-4f86-87ee-c0299b4020e9,sophisticated.cards,available,3.99,,high,lo
 cc000cd1-624f-461e-8f8d-2dc018a93704,courtroom.cards,available,3.99,,medium,low,9,name.com,,,
 f1431216-2140-47a7-a24b-b46d381d53da,herbalmedicine.cards,available,3.99,,high,low,15,name.com,,,
 f52a9fe6-b6fe-4611-b291-d2dde2b1ec13,appealing.cards,available,3.99,50.99,medium,low,9,name.com,,,06/08/2026 05:51
-82496ea7-1255-457f-a715-34b98d7282c2,fused.cards,available,3.99,50.99,medium,low,5,name.com,,,
+82496ea7-1255-457f-a715-34b98d7282c2,fused.cards,available,38.99,38.99,low,low,5,namesilo,,,22/09/2026 03:03
 317c5ab9-4df0-480e-b70a-8f262ceb714a,waitinglist.cards,available,3.99,,medium,low,12,name.com,,,
 767ad859-7723-4074-bb14-c71b9d40780c,matter.cards,available,3.99,,medium,low,6,name.com,,,
-fc7ea4dc-e0bb-4629-ac7d-c0a7d3368aa0,xiv.cards,available,3.99,50.99,high,low,3,name.com,,,
+fc7ea4dc-e0bb-4629-ac7d-c0a7d3368aa0,xiv.cards,available,38.99,38.99,medium,low,3,namesilo,,,21/09/2026 11:42
 c646a683-3423-40c0-bf1b-7d07bdfc4aef,germanchamomile.cards,available,3.99,,high,low,16,name.com,,,
 bc9a00c7-951f-4d2c-abfe-81e2a3f83e2e,laughter.cards,premium,78.54,78.54,high,low,8,namesilo,,,
 342fb5ed-b407-4cdf-935e-f1eccb93b75e,azo.cards,available,3.99,50.99,low,low,3,name.com,,,08/08/2026 02:17
 8a27261e-6b3c-4ebc-a503-388df9db4beb,plantcommunity.cards,available,3.99,,high,low,15,name.com,,,
 22e61860-0e32-4d1e-9e0b-88bf96439e18,ashgray.cards,available,3.99,50.99,low,low,8,name.com,,,07/08/2026 01:59
-8db8698c-90cc-43a4-b211-cca84442b32d,recognized.cards,available,3.99,50.99,high,low,10,name.com,,,
+8db8698c-90cc-43a4-b211-cca84442b32d,recognized.cards,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 15:28
 f69cdb81-6b23-4e4c-9193-726264d6369c,araceous.cards,available,3.99,50.99,low,low,8,name.com,,,06/08/2026 11:36
-42cc32b5-8d1f-420d-8aa8-322888cb4fb5,aerobic.cards,available,3.99,50.99,high,low,7,name.com,,,
+42cc32b5-8d1f-420d-8aa8-322888cb4fb5,aerobic.cards,available,40.98,48.98,medium,low,7,namecheap,,,21/09/2026 21:01
 77d227c5-d048-4144-af95-6e4ff2425ef2,defence.cards,available,3.99,,high,low,7,name.com,,,
 f5ddf5d6-e82e-4f8d-b934-50f502fcba36,mac.cards,available,,,high,low,3,,,,
 b0b04d86-64e2-4662-ad74-60e8a850a3bf,xci.cards,available,3.99,50.99,low,low,3,name.com,,,
@@ -651,7 +649,7 @@ bdfaae9a-5601-46ed-87c1-1cb6bab3e14e,jail.cards,available,3.99,,high,low,4,name.
 cdefa59b-8940-4cc8-8706-d159f05354b8,ribbon.cards,available,3.99,,high,low,6,name.com,,,
 cd3b5094-8dee-4180-b060-ba73495cb64d,neck.cards,available,3.99,,high,low,4,name.com,,,
 ba0f1149-e91d-4adb-a485-43724d111704,azoic.cards,available,3.99,50.99,low,low,5,name.com,,,08/08/2026 02:22
-bddb056f-7f7f-4497-bf8b-3edc3e1f418b,wasted.cards,available,3.99,,medium,low,6,name.com,,,
+bddb056f-7f7f-4497-bf8b-3edc3e1f418b,wasted.cards,available,38.99,38.99,low,low,6,namesilo,,,22/09/2026 11:10
 30821b69-a35e-4892-b018-4d01584fae44,apophyseal.cards,available,3.99,50.99,low,low,10,name.com,,,06/08/2026 03:24
 54f374a2-ccac-4677-8b04-e4422c877ce1,cornering.cards,available,3.99,,medium,low,9,name.com,,,
 c3590095-ef8d-4958-8ac0-e8b5c2821c5c,alary.cards,available,3.99,50.99,low,low,5,name.com,,,
@@ -711,8 +709,8 @@ ba2a577b-8986-4fe5-b900-2660fb6960d8,bell.cards,available,3.99,,high,low,4,name.
 fb0f8d68-07d7-4855-b396-161f427b31c6,djia.cards,available,3.99,,medium,low,4,name.com,,,
 46faca80-9bce-473f-a10b-97edd38ec321,despise.cards,available,3.99,,medium,low,7,name.com,,,
 a44849df-e151-4524-bba4-fa92b16dbe53,dessert.cards,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 09:08
-e4bad75d-acad-460e-914c-cb2f2078d132,invigorate.cards,available,3.99,,high,low,10,name.com,,,
-d05f4aa2-c267-4552-9eb7-6325a23e0695,accurate.cards,available,3.99,50.99,high,low,8,name.com,,,
+e4bad75d-acad-460e-914c-cb2f2078d132,invigorate.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 04:52
+d05f4aa2-c267-4552-9eb7-6325a23e0695,accurate.cards,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 15:59
 f9052e3e-ab39-45bb-b0fe-99cbc582e815,alchemical.cards,available,3.99,50.99,low,low,10,name.com,,,
 d3425c21-370c-4b26-870c-ac407efd30f3,eggs.cards,available,3.99,,high,low,4,name.com,,,
 49f2256b-6d36-43a9-8096-709adc675fdf,salad.cards,available,3.99,,high,low,5,name.com,,,
@@ -755,7 +753,7 @@ ce6101ba-7e54-4c4c-9155-0e5920debc51,cement.cards,available,3.99,,medium,low,6,n
 22bc73ef-e61c-490c-ba95-aa4484e573a6,chickenoregg.cards,available,3.99,,high,low,14,name.com,,,
 57d4e004-2034-4d86-8949-29619da01bdb,sunbelt.cards,available,3.99,,high,low,7,name.com,,,
 c76a5b5e-85e4-4412-98b0-72ea98aec0b7,stubborn.cards,available,3.99,,high,low,8,name.com,,,
-07dcc1a6-c2e3-4225-b974-43b251b9e2a9,angelical.cards,available,3.99,,medium,low,9,name.com,,,
+07dcc1a6-c2e3-4225-b974-43b251b9e2a9,angelical.cards,available,38.99,38.99,low,low,9,namesilo,,,22/09/2026 04:27
 86c21baf-e192-408e-b05c-fe1df169e895,bacon.cards,available,3.99,,medium,low,5,name.com,,,
 e7349331-240c-4b10-b5c1-3dfce0aeb363,luncheonsausage.cards,available,3.99,,high,low,16,name.com,,,
 b4f8f762-386b-4aaf-bb3a-50288e55d492,theyre.cards,available,3.99,,medium,low,6,name.com,,,
@@ -789,12 +787,10 @@ e0414ee5-ad4a-4052-b530-e6e24c09af3c,teamwork.cards,available,3.99,,high,low,8,n
 ea99160f-0726-45f8-be10-8bf5be1b1232,airline.cards,premium,128.7,128.7,high,low,7,namecheap,,,
 283e17b6-4873-44ce-9be3-87e1fb0dbfdd,tardy.cards,available,3.99,50.99,low,low,5,name.com,,,09/08/2026 12:42
 af9c6d7c-5640-4066-9df3-c14fbf611b89,cadillac.cards,available,3.99,,high,low,8,name.com,,,
-1a78e34e-66b4-4c6f-9328-bc223eb7d1cd,counter.cards,available,3.99,,high,low,7,name.com,,,
 a89da11c-a1ab-4191-b8dd-6bf4679c5212,alfresco.cards,available,3.99,50.99,low,low,8,name.com,,,
 ee4c640e-90aa-4362-937b-c3bb8a492ce5,atworst.cards,available,3.99,,medium,low,8,name.com,,,
 573120cc-5f4c-462e-a688-84a98c80f809,wordblind.cards,available,3.99,50.99,low,low,10,name.com,,,
 453c5cd0-ff38-4e3a-9e01-bd6e0c53cf58,toilsome.cards,available,3.99,50.99,low,low,8,name.com,,,06/08/2026 17:16
-cb423eae-7a2b-4ad9-bb2d-0da075bd3ffb,wake.cards,available,3.99,,high,low,4,name.com,,,
 04f8481e-9ccb-46ff-b882-cc20471c64fd,qualification.cards,available,3.99,,medium,low,13,name.com,,,
 a0883776-d021-4d6d-9055-223ae325824b,lucrative.cards,available,3.99,,high,low,9,name.com,,,
 fc22f79c-afe4-4646-b6cf-0341e4a51967,dollarstore.cards,available,3.99,,medium,low,12,name.com,,,
@@ -806,7 +802,7 @@ d832ac65-6fab-4a34-83c2-6216f3e05fe6,lang.cards,available,,,high,low,4,,,,
 9b5dbfcd-f6d4-4756-b9f7-d3e6a8c12f03,soaker.cards,available,3.99,50.99,low,low,6,name.com,,,
 68e79071-4f43-4cf8-bc81-bd464b2c94fc,chimney.cards,available,3.99,,high,low,7,name.com,,,
 f91d2594-3056-41c7-87d2-d9a665463357,gstring.cards,available,3.99,,medium,low,8,name.com,,,
-1a4aa896-c554-4d1b-bd36-27824147ce91,assisted.cards,available,3.99,50.99,medium,low,8,name.com,,,
+1a4aa896-c554-4d1b-bd36-27824147ce91,assisted.cards,available,38.99,38.99,low,low,8,namesilo,,,21/09/2026 23:41
 a7594441-a071-4d4f-9acb-235d2cced82b,acneiform.cards,available,3.99,50.99,low,low,9,name.com,,,
 d8b75f22-f9b3-42b7-9aca-10799904f00c,really.cards,available,3.99,,high,low,6,name.com,,,
 ca111e13-0921-4f7f-9fb8-bd53bbe90ad4,sperm.cards,available,3.99,,high,low,5,name.com,,,
@@ -816,7 +812,7 @@ ca111e13-0921-4f7f-9fb8-bd53bbe90ad4,sperm.cards,available,3.99,,high,low,5,name
 14ed273d-6a9c-4e07-813b-2b048da71c94,wipeup.cards,available,3.99,,high,low,7,name.com,,,
 730a23bb-c655-4048-a087-c88f9c37dbab,pleasing.cards,available,3.99,,high,low,8,name.com,,,
 2f5ba88f-ef70-495b-9dbe-5a4e5033f097,respectful.cards,available,3.99,,high,low,10,name.com,,,
-3cb63ada-7ef1-402f-b320-b6fe0446a5cc,buggy.cards,available,3.99,,high,low,5,name.com,,,
+3cb63ada-7ef1-402f-b320-b6fe0446a5cc,buggy.cards,available,38.99,38.99,low,low,5,namesilo,,,22/09/2026 08:13
 32128a73-d6e5-4a43-ac97-6b65cb51399f,passcode.cards,available,3.99,,high,low,8,name.com,,,
 d6aa6077-5431-4a2d-8920-3c81e6ed9474,jan.cards,premium,78.54,78.54,high,low,3,namesilo,,,
 7804e024-d290-4707-ac95-a45c8a98194e,briary.cards,available,3.99,50.99,low,low,6,name.com,,,08/08/2026 17:02
@@ -829,7 +825,7 @@ e45b1ff9-be9b-471c-943b-c1fc77d56aef,stclair.cards,available,3.99,,medium,low,9,
 d5af6a77-34ae-4988-b3fe-d41c45ff77a5,yourstruly.cards,available,3.99,,medium,low,11,name.com,,,
 ad2afeba-26e4-41c9-a87f-b2344d31c89a,barebacked.cards,available,3.99,50.99,low,low,10,name.com,,,08/08/2026 18:44
 e00ce601-4836-4571-a686-75fa66e92837,committing.cards,available,3.99,,medium,low,10,name.com,,,
-beb8a8a9-d834-45f8-9497-a9f6e54385de,amicable.cards,available,3.99,,high,low,8,name.com,,,
+beb8a8a9-d834-45f8-9497-a9f6e54385de,amicable.cards,available,38.99,38.99,medium,low,8,namesilo,,,22/09/2026 04:19
 88bc0905-6dfb-4f5e-94be-3a201f5c09f4,acetous.cards,available,3.99,50.99,low,low,7,name.com,,,
 828b97cf-a7b6-4aaf-aec5-d98074bcffb8,adhominem.cards,available,3.99,50.99,low,low,10,name.com,,,
 b705a439-2764-4735-b7a8-a594ab7170c0,olympicflame.cards,available,3.99,,high,low,13,name.com,,,
@@ -847,7 +843,7 @@ b3373902-02a2-419a-89f7-abcc7d25201d,organs.cards,available,3.99,,high,low,6,nam
 e7fc4e46-0413-4518-b63c-99b4c44fddf5,consensus.cards,available,,,high,low,9,,,,
 7527ed17-15a3-496e-b950-f0920970223f,namely.cards,available,3.99,,medium,low,6,name.com,,,
 2ad860d7-f8b2-42f1-8b43-b6b683d9efbc,generalinsurance.cards,available,3.99,,high,low,17,name.com,,,
-46c53874-d867-4ca7-9e07-dcbceb7a5b50,allergic.cards,available,3.99,50.99,high,low,8,name.com,,,
+46c53874-d867-4ca7-9e07-dcbceb7a5b50,allergic.cards,available,40.98,48.98,medium,low,8,namecheap,,,22/09/2026 01:25
 74963406-5236-46a2-8e5b-758dcabedba6,atleast.cards,available,3.99,,medium,low,8,name.com,,,
 40e7305d-2057-445d-93e8-acad8986aa7a,mobmentality.cards,available,3.99,,medium,low,13,name.com,,,
 f9111fe3-2982-4928-be76-28c2f47a739a,bearsized.cards,available,3.99,50.99,low,low,10,name.com,,,09/08/2026 04:23
@@ -939,7 +935,7 @@ ded99202-0b72-42c6-999a-aea0373f431e,boy.cards,premium,82.5,,medium,low,3,name.c
 65d796ef-4346-4e3e-920e-5e614d35fe6e,amnesic.cards,available,3.99,50.99,low,low,7,name.com,,,
 80e24630-c37b-43eb-8df4-6f1cc0868248,heel.cards,available,3.99,,medium,low,4,name.com,,,
 f31f8033-b8f8-45e9-8620-b9e49e5bec94,its.cards,premium,118.8,118.8,high,medium,3,namesilo,,,
-e07109f7-19cc-4d1a-8712-4f1bf178f78b,twentieth.cards,available,3.99,50.99,high,low,9,name.com,,,
+e07109f7-19cc-4d1a-8712-4f1bf178f78b,twentieth.cards,available,38.99,38.99,medium,low,9,namesilo,,,21/09/2026 12:27
 1237b31f-798f-4460-b1b0-6d12115bd008,chance.cards,available,,,high,high,6,,,,
 cbf1d153-f33f-4508-821a-c3657a04009e,relate.cards,available,3.99,50.99,low,low,6,name.com,,,07/08/2026 07:03
 71163a49-0e7a-4c3d-85ab-b2d8d8589768,airplane.cards,available,3.99,,high,low,8,name.com,,,
@@ -948,10 +944,10 @@ dcbc4d9b-6f9e-4289-9769-5c8eaa6fe6fa,infuriated.cards,available,3.99,50.99,low,l
 5a82eae8-6c3e-427e-b37f-87bcac59bcfd,istandcorrected.cards,available,3.99,,medium,low,17,name.com,,,
 5539a968-013a-4d8b-b0f0-b7f4061414ab,cucumber.cards,available,3.99,,high,low,8,name.com,,,
 f8533a57-fa7a-4088-8a49-957b499844fe,mitigative.cards,available,3.99,50.99,low,low,10,name.com,,,
-de69b186-a603-4a64-90f0-a0c28c36742d,selfless.cards,available,3.99,50.99,high,low,8,name.com,,,
+de69b186-a603-4a64-90f0-a0c28c36742d,selfless.cards,available,38.99,38.99,medium,low,8,namesilo,,,22/09/2026 02:51
 e8c7a269-b05a-4497-ba35-9da84af4504f,pope.cards,available,3.99,,high,low,4,name.com,,,
 3b70bab4-5dbd-44e4-9d41-74ad92f4aefc,convenient.cards,available,3.99,,high,low,10,name.com,,,
-6f8d5f87-de0a-47ab-ad96-1e2925754232,capable.cards,available,3.99,50.99,high,low,7,name.com,,,
+6f8d5f87-de0a-47ab-ad96-1e2925754232,capable.cards,available,40.98,48.98,medium,low,7,namecheap,,,21/09/2026 18:33
 46a0388e-651c-46ef-8136-ba30ac7c4eca,anybody.cards,available,3.99,,medium,low,7,name.com,,,
 bd72c5dd-423c-430c-a826-7bce2f1d3166,laurelandhardy.cards,available,3.99,,medium,low,16,name.com,,,
 187ca7df-cbdd-4fa8-ac9d-8a5436f8c9f3,acrophobic.cards,available,3.99,50.99,low,low,10,name.com,,,
@@ -966,12 +962,11 @@ f0d76f30-38a0-4df0-a119-acbac8dee33a,apsidal.cards,available,3.99,50.99,low,low,
 31ff60c6-4716-4b42-b176-ec1242b317cf,her.cards,premium,78.54,78.54,medium,low,3,namesilo,,,
 22250456-b5e7-4011-8d88-865ea62e6764,idarebebound.cards,available,3.99,,medium,low,15,name.com,,,
 ea132017-18f2-43cd-b90c-f0534ac43d1a,databaseanalyst.cards,available,3.99,,medium,low,16,name.com,,,
-c9b7eb44-481d-451b-a874-e22e4f773840,fuzzy.cards,available,3.99,,high,low,5,name.com,,,
 000da9c7-728a-47dc-a84d-13f24af1ba65,englishspeaking.cards,available,3.99,,medium,low,16,name.com,,,
 9b4bf59e-7dfc-484f-837a-cfd59f8ff576,bridget.cards,available,3.99,,high,low,7,name.com,,,
 e0a5b95e-44e0-412d-8986-73896cc40836,nowandagain.cards,available,3.99,,low,low,13,name.com,,,
 d570bfc4-3ecc-4cba-b329-0b53e6b95c7f,helminthic.cards,available,3.99,50.99,low,low,10,name.com,,,
-ce76569e-5110-4396-b3ba-98f259e10f75,cover.cards,available,3.99,,high,low,5,name.com,,,
+ce76569e-5110-4396-b3ba-98f259e10f75,cover.cards,resell,3.99,,medium,low,5,name.com,,,22/09/2026 21:52
 a25689ef-6818-44c2-abf1-fdfe211b35fd,ifallen.cards,available,3.99,,medium,low,8,name.com,,,
 c062464c-19ad-4bac-8b57-c294ad121554,amylaceous.cards,available,3.99,50.99,low,low,10,name.com,,,
 e7ef63e8-95d6-4495-a218-4c0948c6c100,gotoilet.cards,available,3.99,,medium,low,9,name.com,,,
@@ -992,10 +987,15 @@ dad0ab50-50aa-4e0b-94ad-a890de923198,ripening.cards,available,3.99,50.99,low,low
 69ac80a8-6283-48c9-9541-a823a8ac75e2,mordacious.cards,available,3.99,50.99,low,low,10,name.com,,,08/08/2026 16:52
 4042c963-68a8-48e5-a10b-63004609bfd2,whereas.cards,available,3.99,,high,low,7,name.com,,,
 99fc65c3-875b-4743-b837-7350483dcf7f,youknowit.cards,available,3.99,,high,low,11,name.com,,,
-3975c27a-d519-4d03-b9f5-fded363d2209,blind.cards,available,3.99,,medium,low,5,name.com,,,
 1a78dc0b-7dd6-40fe-b2a7-3f5adf5c8357,feelings.cards,available,3.99,,high,low,8,name.com,,,
 0aee0621-3f7a-4631-b1ff-8dfb3b0bcabc,stereotype.cards,available,3.99,,high,low,10,name.com,,,
 45385120-ff31-41c2-a202-459f73af038c,dothedishes.cards,available,3.99,,medium,low,13,name.com,,,
 3e0fd406-0dd2-445d-8ef3-6dcb6d2e95d4,flickering.cards,available,3.99,50.99,low,low,10,name.com,,,
 d28bfd95-c62c-44c1-b747-23070e535f63,abdicable.cards,available,3.99,50.99,low,low,9,name.com,,,
 25375e4d-df8a-41b6-98f5-a0da5c3535a0,ontheroad.cards,available,3.99,,low,low,11,name.com,,,
+ebf8e00f-0218-4200-ae41-76fa61081f0b,astound.cards,available,3.99,,high,low,7,name.com,,,
+e31acce5-93a4-4f9e-92cb-23a9550e9612,fla.cards,available,3.99,,medium,low,3,name.com,,,
+6b2ee1fc-3007-4d22-8955-1190e15bb59b,knowsomeone.cards,available,3.99,,medium,low,12,name.com,,,
+23dbcb3d-adfd-4d5c-9a8c-e38dba535e4a,despite.cards,available,3.99,,high,low,7,name.com,,,
+03b26b15-55b0-4068-9653-8bfa6a7b0467,tectonic.cards,available,3.99,50.99,low,low,8,name.com,,,06/08/2026 15:47
+37d3025c-2f7b-4b48-a0be-98232f474a30,chiliad.cards,available,3.99,50.99,low,low,7,name.com,,,
