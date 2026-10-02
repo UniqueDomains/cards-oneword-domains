@@ -3,12 +3,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ddeb510-b80d-4df0-ad80-ce2f1e6384e3,liver.cards,available,3.99,50.99,high,low,5,name.com,,,24/08/2026 08:02
 ece0b13c-3780-4142-9858-22cc684bc5f6,xxxii.cards,available,3.99,50.99,medium,low,5,name.com,,,
 300d56c3-7711-4c8f-96fc-a0aa1e6881c2,shortfall.cards,available,38.99,38.99,medium,low,9,namesilo,,,29/09/2026 13:34
+6b24ef3c-dcbf-4e19-8a34-4961176c4650,finnegan.cards,available,30.2,30.2,medium,low,8,cloudflare,,,01/10/2026 11:40
 7a7b06e2-d852-4590-a1ca-2e772f615106,marlene.cards,available,31.25,31.25,medium,low,7,spaceship,,,28/09/2026 22:01
 f53b99ac-e541-4fb4-9bce-66670713322b,accidental.cards,available,3.99,50.99,high,low,10,name.com,,,
 a4abcf79-a8a7-4da9-a6de-298bc2918651,saxon.cards,available,38.99,38.99,high,low,5,namesilo,,,09/09/2026 22:11
 38ce715f-4eed-44eb-8e06-1a6b75136e23,neutralize.cards,available,31.25,31.25,high,low,10,spaceship,,,01/10/2026 04:11
 d43f17c8-b4f4-45f1-b376-34abb73bcea7,daringly.cards,available,38.99,38.99,medium,low,8,namesilo,,,14/09/2026 10:37
 5c1730b2-9abb-4ad2-9557-1971ff51c763,voluntary.cards,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 07:07
+321b07d3-911f-4b55-8de8-49056ea99f58,sponsoring.cards,available,30.2,30.2,medium,low,10,cloudflare,,,01/10/2026 18:41
 f7352524-d36c-43d3-9e42-9eee62f3f1aa,optionally.cards,available,38.99,38.99,medium,low,10,namesilo,,,28/09/2026 16:29
 eabdc5b9-520f-4a4f-80f6-7e6e82f472ad,bidder.cards,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 13:43
 5d2ce247-dd0f-4b32-a8dd-34cc74259537,atrial.cards,available,3.99,50.99,low,low,6,name.com,,,07/08/2026 14:24
@@ -18,6 +20,7 @@ ac1b0848-6f08-45df-b00b-c18b16bc3b47,passages.cards,available,31.25,31.25,medium
 330ade61-c1e6-418d-82ae-da7b75193d77,extension.cards,available,31.25,31.25,high,low,9,spaceship,,,28/09/2026 21:27
 556b901c-1abf-484b-83f1-b1d21c85ff00,sultan.cards,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 12:57
 eec1d3da-6168-4128-9c53-2440cb3b75a6,unloved.cards,available,38.99,38.99,medium,low,7,namesilo,,,12/09/2026 15:10
+9bf3ebb5-9dc9-4030-9816-82a77b156e23,roadway.cards,available,30.2,30.2,high,low,7,cloudflare,,,01/10/2026 21:33
 f6757ee4-dedc-4141-8f61-0e0d07ac4928,violent.cards,available,38.99,38.99,high,low,7,namesilo,,,11/09/2026 09:46
 30ae8fa3-c188-43a5-8310-1e587417315e,peso.cards,available,38.99,38.99,high,low,4,namesilo,,,24/09/2026 14:37
 9dc96f23-9932-4da2-b664-9595e4df6f01,confidant.cards,available,3.99,50.99,high,low,9,name.com,,,22/08/2026 08:30
@@ -73,6 +76,7 @@ a7710081-a84b-4b5e-9cb6-a4d11ee43a10,unadvised.cards,available,3.99,50.99,medium
 b1ca9630-94c2-4308-978e-8ba98ba6660c,ming.cards,available,31.25,31.25,high,low,4,spaceship,,,28/09/2026 02:26
 42e24f8d-75f4-44d2-a81f-0e41577f212a,stoker.cards,available,38.99,38.99,medium,low,6,namesilo,,,16/09/2026 16:53
 5b7b62ea-c634-4fed-868b-605e26d5b0f7,prostitution.cards,available,38.99,38.99,medium,low,12,namesilo,,,28/09/2026 17:12
+c6b21750-cb8c-4ca8-9f68-b1a15f807d92,caged.cards,available,40.98,48.98,medium,low,5,namecheap,,,02/10/2026 04:01
 dc3b4d36-116e-410c-93a8-15298e0d30d0,felted.cards,available,3.99,50.99,medium,low,6,name.com,,,18/08/2026 01:00
 0e21d04f-1149-46ac-b649-c7c59420f38c,formulary.cards,available,3.99,50.99,medium,low,9,name.com,,,18/08/2026 12:20
 e3aeac92-f657-465b-a5e3-61df45cb4be7,refinery.cards,available,38.99,38.99,high,low,8,namesilo,,,30/09/2026 02:41
@@ -84,6 +88,7 @@ ea71d0c5-19b7-4740-a0ca-b425ffac70a2,sourcecode.cards,available,38.99,38.99,high
 5a15c9f5-9a48-4082-99e0-9d36ccb52d89,toni.cards,available,38.99,38.99,high,low,4,namesilo,,,27/09/2026 07:46
 cb1c239a-c452-41eb-aeca-4295b84bc600,weimar.cards,available,38.99,38.99,medium,low,6,namesilo,,,26/09/2026 00:31
 cd3502b7-f805-41be-a82a-fe43f42c4746,laurent.cards,available,40.98,48.98,medium,low,7,namecheap,,,27/09/2026 09:55
+39dbfba8-d0b6-41f7-9b0b-3f2d332fc775,lupus.cards,available,31.25,31.25,medium,low,5,spaceship,,,02/10/2026 05:40
 d4bfe77c-13cf-426d-b0a1-acab14849b38,crucifix.cards,available,38.99,38.99,high,low,8,namesilo,,,30/09/2026 16:50
 f5148c2a-39c3-471e-9ba4-3b96800d4691,hilda.cards,available,31.25,31.25,medium,low,5,spaceship,,,27/09/2026 19:38
 54e80d3c-359d-4149-97c4-3f018dec1f72,earthquake.cards,available,38.99,38.99,high,low,10,namesilo,,,27/09/2026 13:14
@@ -99,7 +104,7 @@ ed5cd17b-e03f-452d-a81e-09dd0ad9f6e9,eastwards.cards,available,3.99,50.99,medium
 7166e35c-8270-4cad-83e8-7d5ae8924e93,dennis.cards,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 13:58
 bae785f0-c223-4d30-9fc2-a4be71081f8e,slippy.cards,available,38.99,38.99,medium,low,6,namesilo,,,10/09/2026 11:03
 3610b3d7-70be-44e1-a856-712edc13a62b,moth.cards,available,31.25,31.25,high,low,4,spaceship,,,28/09/2026 19:56
-62bae3ad-bbac-4af9-9015-37e7696e23d9,leasing.cards,available,3.99,,high,low,7,name.com,,,
+62bae3ad-bbac-4af9-9015-37e7696e23d9,leasing.cards,available,38.99,38.99,high,low,7,namesilo,,,01/10/2026 23:15
 8cac53aa-2af3-4c3f-9adf-3552ad0c50e5,bottled.cards,available,31.25,31.25,medium,low,7,spaceship,,,29/09/2026 03:12
 689d6aca-41a6-4bcd-b0ff-c5f463355a6d,immigrants.cards,available,31.25,31.25,medium,low,10,spaceship,,,29/09/2026 17:14
 4136cf33-48c7-44ef-b1fa-35396cffd23e,berserk.cards,available,3.99,50.99,medium,low,7,name.com,,,
@@ -117,12 +122,13 @@ fc02b1ee-49f9-4144-ba54-a613d78c2610,ariana.cards,available,38.99,38.99,high,low
 67c7e951-a49b-4c19-8c5b-a74648bbf470,patrol.cards,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 23:57
 078fbc23-4e30-4295-8250-65a9426d3629,palo.cards,available,38.99,38.99,medium,low,4,namesilo,,,27/09/2026 01:51
 4a26930d-25ac-49a1-932d-bd9859d36b3b,separable.cards,available,3.99,50.99,medium,low,9,name.com,,,14/08/2026 12:50
+6f644255-1797-46d1-bed3-ddac4bbc0e51,housework.cards,available,31.25,31.25,high,low,9,spaceship,,,02/10/2026 05:21
 00b1dbbb-6f3b-4857-a109-85ce9125b125,hats.cards,available,38.99,38.99,high,low,4,namesilo,,,18/09/2026 07:32
 031df5f1-51f8-4b94-a2f8-15c0c6d0e3ae,fragile.cards,available,3.99,50.99,high,low,7,name.com,,,18/08/2026 13:57
 43f591fb-010c-4f9a-b17e-bd1ed5f25e66,frisian.cards,available,3.99,50.99,medium,low,7,name.com,,,18/08/2026 15:59
 6082b7b0-d172-44b8-9a02-41afa46bd968,mole.cards,available,2.5,32.21,high,low,4,dynadot,,,27/09/2026 11:53
-f53e41db-892d-4caf-90f3-48fe434e534a,poolside.cards,available,3.99,,high,low,8,name.com,,,
-1f3345d9-0deb-4288-b7dd-9b9ba24b517b,highlighting.cards,available,3.99,,high,low,12,name.com,,,
+f53e41db-892d-4caf-90f3-48fe434e534a,poolside.cards,available,31.25,31.25,high,low,8,spaceship,,,02/10/2026 00:48
+1f3345d9-0deb-4288-b7dd-9b9ba24b517b,highlighting.cards,available,2.5,32.21,high,low,12,dynadot,,,01/10/2026 23:00
 9fd5833c-4bf0-4fa3-935c-0590701249c6,embrace.cards,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 17:59
 ac55ba41-ff65-4f13-94b0-fc49785968e6,circumference.cards,available,30.2,30.2,medium,low,13,cloudflare,,,30/09/2026 03:32
 555193ba-d2db-4e82-8013-b8778ec2f1a6,loire.cards,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 14:48
@@ -130,13 +136,14 @@ c0f21b9a-bc97-4df7-a6a1-4e3a69a0d6ea,arching.cards,available,3.99,50.99,high,low
 adeaaf84-12ab-438f-ba9f-577b9c1bbbce,adelaide.cards,available,38.99,38.99,high,low,8,namesilo,,,17/09/2026 07:13
 23f25c2d-0d71-4b09-af8c-4467212260eb,critter.cards,available,40.98,48.98,high,low,7,namecheap,,,24/09/2026 19:33
 19330ae0-9d75-4f9e-b0c1-e114197aa3ff,apanage.cards,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 16:12
-09187419-c28b-439a-a8be-35bd7e9151a3,wagering.cards,available,38.99,38.99,medium,low,8,namesilo,,,28/09/2026 11:01
+09187419-c28b-439a-a8be-35bd7e9151a3,wagering.cards,available,31.25,31.25,high,low,8,spaceship,,,01/10/2026 19:03
 270649a8-be63-40dd-a72c-c80f74c5f3f7,orthoptic.cards,available,40.98,48.98,medium,low,9,namecheap,,,04/09/2026 18:06
 f058579f-12e0-4560-9a6a-8dfbbb2f720e,cousin.cards,available,40.98,48.98,high,low,6,namecheap,,,24/09/2026 18:49
 7e2c587c-a102-4975-a252-b4cf8371d9cd,junctions.cards,available,38.99,38.99,medium,low,9,namesilo,,,27/09/2026 03:20
 e15d25ea-8a72-41a7-ae9b-a9e3322d83fc,harriman.cards,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 09:11
 dbb1b55c-8ada-4ab1-88cd-2000c37a5785,awestruck.cards,available,3.99,50.99,medium,low,9,name.com,,,08/08/2026 01:00
 4f7f7ae3-18ed-4ecc-940f-47d2a462bddf,document.cards,available,2.57,31.41,high,low,8,porkbun,,,29/09/2026 16:26
+84f738a4-b1f9-4460-85ec-5b1aad967278,vienne.cards,available,38.99,38.99,medium,low,6,namesilo,,,02/10/2026 04:28
 a3d6d37a-232b-4bd5-b344-181d603f2599,wardrobe.cards,available,40.98,48.98,high,low,8,namecheap,,,28/09/2026 06:52
 84d78c20-8452-44d8-93f4-bfefb52a1ba5,vagrant.cards,available,3.99,50.99,high,low,7,name.com,,,14/08/2026 19:18
 3586a3eb-2f78-46b3-a698-52ce37d3d0cd,cutaneal.cards,available,3.99,50.99,medium,low,8,name.com,,,13/08/2026 12:57
@@ -149,6 +156,7 @@ e463b7f3-0a43-4150-b33e-45d072a8d7a7,shines.cards,available,30.2,30.2,medium,low
 5026b521-5e5e-466b-b248-5aa371659b0d,levy.cards,available,40.98,48.98,high,low,4,namecheap,,,30/09/2026 02:08
 dc83017e-c7d6-4aa6-97c0-a319ba399063,holman.cards,available,38.99,38.99,high,low,6,namesilo,,,28/09/2026 04:15
 ceae3491-595a-4371-99e4-8a4a596a18a0,lakes.cards,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 09:25
+a4d50e29-d6ae-457c-a6ae-13750d902f4f,janie.cards,available,31.25,31.25,high,low,5,spaceship,,,01/10/2026 08:49
 198f5b40-dfdc-4a12-b4e8-84548d97f064,dealings.cards,available,2.57,31.41,high,low,8,porkbun,,,29/09/2026 18:35
 be142f4f-e88e-4750-b5a0-f3908a650b12,abstractor.cards,available,40.98,48.98,medium,low,10,namecheap,,,16/09/2026 18:29
 d1001252-6e17-43cd-b6b7-5b28b321e8f1,aaa.cards,premium,85.8,85.8,high,medium,3,namecheap,,,28/09/2026 16:55
@@ -161,10 +169,12 @@ e99cbc77-b5dd-4c1a-a5b6-11dd326bec7a,juarez.cards,available,31.25,31.25,medium,l
 f4c4e693-3405-4027-ab4b-b5d6f960eb2b,showers.cards,available,40.98,48.98,medium,low,7,namecheap,,,28/09/2026 23:39
 856d9c82-5982-443a-bb7f-b1d6c3173750,knobby.cards,available,3.99,50.99,medium,low,6,name.com,,,22/08/2026 16:29
 2e053cac-7819-4dd8-8bf3-697ff3aee8e6,contains.cards,available,40.98,48.98,medium,low,8,namecheap,,,18/09/2026 15:08
+736a8243-0d62-4441-a3f4-59cdab639028,captives.cards,available,38.99,38.99,medium,low,8,namesilo,,,02/10/2026 02:54
 7e586c26-60dc-4445-85a6-6389af12bacf,passee.cards,available,3.99,50.99,medium,low,6,name.com,,,14/08/2026 01:19
 fca7e05e-661f-4116-aa74-4d80e1719ca7,abysm.cards,available,38.99,38.99,medium,low,5,namesilo,,,16/09/2026 19:45
 f037686d-e319-487a-90a2-894bf19340c2,airlines.cards,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 17:53
 ed9340a8-b832-46fb-be6d-67619109c486,albright.cards,available,38.99,38.99,medium,low,8,namesilo,,,28/09/2026 12:24
+3c99092e-65a9-4bcf-aeba-d2765890a1d9,arabella.cards,available,38.99,38.99,medium,low,8,namesilo,,,01/10/2026 08:14
 ffaa3039-e082-43cb-a87e-f99858fd8017,nontoxic.cards,available,40.98,48.98,medium,low,8,namecheap,,,18/09/2026 21:11
 00bf1cde-5295-4eab-a733-ffa820d4b786,tucked.cards,available,40.98,48.98,high,low,6,namecheap,,,11/09/2026 21:02
 d9f990d5-bc3f-49c7-a608-a0b659af567e,comeback.cards,available,2.57,31.41,high,low,8,porkbun,,,29/09/2026 18:25
@@ -188,9 +198,13 @@ cd532327-e7ad-45ee-b73d-838bf93458d8,hasten.cards,available,38.99,38.99,medium,l
 f07e8b59-5d14-4a68-81e8-5b7a6ecde8b5,linguist.cards,available,38.99,38.99,high,low,8,namesilo,,,08/09/2026 23:18
 c28e52fa-b443-4dda-8e7b-57ba1acbba51,stochastic.cards,available,40.98,48.98,medium,low,10,namecheap,,,10/09/2026 20:50
 5a7d13a6-d3e5-4860-bfc2-215551b4164f,ailing.cards,available,3.99,50.99,high,low,6,name.com,,,
+329e174f-eecb-4fb5-afd5-caddc78b4857,grooming.cards,available,38.99,38.99,high,low,8,namesilo,,,02/10/2026 05:08
+4b919c84-16e0-4db8-8784-294d7b5324bb,mombasa.cards,available,31.25,31.25,medium,low,7,spaceship,,,01/10/2026 20:35
+52a1e06c-32ba-4354-8026-325c981ffb32,gladiator.cards,available,38.99,38.99,high,low,9,namesilo,,,02/10/2026 05:04
 02fba163-574b-47b6-a744-eb754d600be0,concordia.cards,available,2.57,31.41,high,low,9,porkbun,,,27/09/2026 20:47
 988a0910-8312-49ba-bac0-74334a785136,sideboard.cards,available,38.99,38.99,high,low,9,namesilo,,,24/09/2026 10:55
 0abb6ffa-ecab-48b1-a13a-fecb51f3faea,crisis.cards,available,40.98,48.98,high,low,6,namecheap,,,24/09/2026 19:30
+7768b758-c7ba-4f1f-b01b-82963cdd967c,mex.cards,available,31.25,31.25,high,low,3,spaceship,,,02/10/2026 00:18
 dc939d92-b3d6-4650-bc41-9b857febf2bc,cruising.cards,available,40.98,48.98,high,low,8,namecheap,,,29/09/2026 05:15
 10b00b2f-dd4a-4793-b7b1-356ade67fe5c,crevice.cards,available,3.99,50.99,high,low,7,name.com,,,13/08/2026 04:16
 68402e7b-4d5a-4431-88f9-c73c7a8a7bbd,affix.cards,available,38.99,38.99,high,low,5,namesilo,,,17/09/2026 14:37
@@ -206,13 +220,14 @@ a8420c04-a8c3-4a75-a4a1-c511a4e67fce,truths.cards,available,30.2,30.2,medium,low
 a99670ad-b862-4150-9e0b-e06b0e9c705f,soulfully.cards,available,38.99,38.99,high,low,9,namesilo,,,16/09/2026 05:30
 c7c4a6dd-6904-4be8-8554-2a263a2935f5,dependance.cards,available,40.98,48.98,medium,low,10,namecheap,,,17/09/2026 06:55
 276f3c17-9b14-4714-a977-f62ec53ec161,strains.cards,available,31.25,31.25,medium,low,7,spaceship,,,30/09/2026 07:15
-8a62383b-a635-49ff-826f-5b37733f2ce8,congrats.cards,available,3.99,,high,low,8,name.com,,,
+8a62383b-a635-49ff-826f-5b37733f2ce8,congrats.cards,available,38.99,38.99,high,low,8,namesilo,,,01/10/2026 09:14
 eac00df7-493e-47f6-8c66-2c1d3f797f3e,civilized.cards,available,3.99,50.99,high,low,9,name.com,,,12/08/2026 09:06
 1c0d562c-214c-4ce6-96c1-a2bff39ef2df,york.cards,available,38.99,38.99,high,low,4,namesilo,,,29/09/2026 23:04
 17d86b30-4ce7-4e11-963d-27a1ecea74f0,ecumenical.cards,available,3.99,50.99,medium,low,10,name.com,,,15/08/2026 04:38
 dfdcdd2e-14d0-4e15-aa10-2ca4e672994e,uniat.cards,available,38.99,38.99,medium,low,5,namesilo,,,12/09/2026 12:44
 a64278ff-9de1-4994-932d-cfd2b4861fb2,aecium.cards,available,40.98,48.98,medium,low,6,namecheap,,,17/09/2026 12:08
 c23b1e27-c335-421e-ba8e-1f092ac6d37b,signatures.cards,available,30.2,30.2,medium,low,10,cloudflare,,,28/09/2026 23:59
+fbc2d252-86ff-44c5-b719-85617d699b7b,fergusson.cards,available,31.25,31.25,medium,low,9,spaceship,,,02/10/2026 02:38
 2663fec7-60d7-4a2b-b2d0-1d2b209a5c6d,compile.cards,available,38.99,38.99,high,low,7,namesilo,,,08/09/2026 09:16
 fb176d71-d6fa-45f8-bd2d-d13d886410d9,injected.cards,available,38.99,38.99,medium,low,8,namesilo,,,29/09/2026 10:57
 dbe8f9dc-cc75-4cbb-9d8a-7da0fcce0e23,journals.cards,available,30.2,30.2,medium,low,8,cloudflare,,,29/09/2026 16:35
@@ -233,6 +248,7 @@ b441fa74-801b-4243-9c54-91ca9b05c4a4,koran.cards,available,38.99,38.99,high,low,
 b1d749ce-a835-43d1-a4a2-6e410d1c8341,unprotected.cards,available,38.99,38.99,medium,low,11,namesilo,,,30/09/2026 12:02
 8841db52-3530-416a-a851-ab6c00b498a5,classify.cards,available,3.99,50.99,high,low,8,name.com,,,24/09/2026 15:20
 b93af219-155e-4700-9de9-72d63a0cbad9,inaccurate.cards,available,3.99,50.99,medium,low,10,name.com,,,22/08/2026 00:09
+b4138dd5-bb81-433c-8d51-7a13589156e8,eels.cards,available,30.2,30.2,high,low,4,cloudflare,,,02/10/2026 03:24
 1b990f6e-289d-46c4-952b-f5071dba732b,tingling.cards,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 15:29
 2640bf40-fed9-47fa-aed2-ee3e7bdc6bc9,methodical.cards,available,3.99,50.99,high,low,10,name.com,,,24/08/2026 21:56
 66e7d1c9-6689-4c86-a373-299cb2c70b14,hipped.cards,available,3.99,50.99,medium,low,6,name.com,,,21/08/2026 09:41
@@ -252,6 +268,7 @@ d2b72f75-4a31-4039-a304-3b8b3c1806f0,plugs.cards,available,3.99,50.99,medium,low
 6aedb70f-0add-48b7-aa24-8f945114c34b,cincinnati.cards,available,38.99,38.99,high,low,10,namesilo,,,29/09/2026 09:12
 3e03ae48-c2e6-4f8e-8d3b-6d9c94ad4686,afterlife.cards,available,38.99,38.99,high,low,9,namesilo,,,15/09/2026 00:23
 0183957a-2738-404a-848a-a364033f456e,beignet.cards,available,38.99,38.99,medium,low,7,namesilo,,,23/09/2026 04:07
+198bb1bc-a427-4b16-a325-bcffd1978df0,iww.cards,available,38.99,38.99,medium,low,3,namesilo,,,02/10/2026 05:22
 20da74f7-bf0d-4681-8df2-1fa8ba72abee,workings.cards,available,38.99,38.99,high,low,8,namesilo,,,28/09/2026 10:48
 500ae2b7-2bb4-4230-84a2-f1511c63d897,bewitching.cards,available,3.99,50.99,high,low,10,name.com,,,09/08/2026 18:19
 ceba81b2-6bd3-41ee-a8d8-2b383412da31,kia.cards,available,2.57,31.41,high,low,3,porkbun,,,29/09/2026 20:51
@@ -266,12 +283,14 @@ b64c5712-2be3-4106-b21a-062848adec81,murderers.cards,available,31.25,31.25,low,l
 0f8d66e9-b280-45f6-bdc4-9a3c2df2204d,tripping.cards,available,3.99,50.99,medium,low,8,name.com,,,23/08/2026 05:23
 23013904-8a85-4ff5-87c5-01ec3592ae1a,luke.cards,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 06:37
 6df1d8b4-235b-4c19-b0e9-f3798ef56f8c,coax.cards,available,38.99,38.99,high,low,4,namesilo,,,24/09/2026 04:12
+2e70103a-29c7-4a07-ba41-de7557f8e00d,malls.cards,available,31.25,31.25,medium,low,5,spaceship,,,01/10/2026 16:45
 24478a2d-fe3d-4511-94ba-dea8cfb8203b,badness.cards,available,3.99,50.99,medium,low,7,name.com,,,08/08/2026 07:23
 32178055-657f-4625-92d1-1838ab6d8e83,reversible.cards,available,38.99,38.99,high,low,10,namesilo,,,27/09/2026 14:17
 fc2c9273-f13f-4721-91be-b8fd3c4cb7af,pigfish.cards,available,38.99,38.99,medium,low,7,namesilo,,,17/09/2026 00:46
 a3fb07cd-020b-4c58-823c-f50084a854d2,ineffective.cards,available,31.25,31.25,medium,low,11,spaceship,,,30/09/2026 12:11
 483f5565-dbf4-44a6-8df0-ceb5a84e75b7,naturally.cards,available,30.2,30.2,high,low,9,cloudflare,,,28/09/2026 13:42
 e2f5c928-3766-47c6-9e78-b6c5dd261902,unsold.cards,available,40.98,48.98,medium,low,6,namecheap,,,12/09/2026 20:17
+4e617141-3616-4ff4-9980-e14a6bf6c9a5,catalina.cards,available,31.25,31.25,high,low,8,spaceship,,,01/10/2026 23:03
 69da6e5e-e378-43de-a4ab-e00611c5b6e9,adumbrate.cards,available,3.99,50.99,medium,low,9,name.com,,,22/08/2026 08:33
 7450c5c3-b5e9-4815-8dd1-646c18b94dd1,compel.cards,available,38.99,38.99,medium,low,6,namesilo,,,03/09/2026 23:39
 6821511a-56a2-4eaf-9450-8f162749e806,collects.cards,available,38.99,38.99,medium,low,8,namesilo,,,29/09/2026 17:04
@@ -285,6 +304,7 @@ aa9d7106-2799-475a-9a90-fc8a39dd8d89,lateral.cards,available,3.99,50.99,high,low
 f5dc08c5-a315-45d3-90c2-74b53523679b,draws.cards,available,3.99,50.99,high,low,5,name.com,,,
 52065781-b755-4b0b-b21b-bbfd649f12bb,reckon.cards,available,2.5,32.21,high,low,6,dynadot,,,30/09/2026 09:37
 5b96d4a4-2cc5-45da-94bf-77d8571f199a,downing.cards,available,40.98,48.98,medium,low,7,namecheap,,,19/09/2026 04:46
+4b3d2ab5-9faf-4f18-b90e-05d81a7a07b8,hunts.cards,available,31.25,31.25,medium,low,5,spaceship,,,01/10/2026 23:56
 8eab5fb8-6ca3-43ce-999e-8475780413fb,vulnerable.cards,available,38.99,38.99,high,low,10,namesilo,,,13/09/2026 07:24
 a9867812-9961-41d5-a2fe-49a3a36fea74,firepower.cards,available,31.25,31.25,high,low,9,spaceship,,,01/10/2026 02:09
 7f636600-c72d-4f5a-a3a5-0450f34b1138,thousands.cards,available,38.99,38.99,medium,low,9,namesilo,,,18/09/2026 15:22
@@ -293,6 +313,7 @@ e6e51941-37cf-428e-ab30-5fdabfb3df10,arsehole.cards,available,38.99,38.99,medium
 073c23d6-b810-4133-ba4d-de8a832bb4b0,peers.cards,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 16:27
 1f68a08a-48ca-48f3-a58e-d2b5d2815016,severus.cards,available,31.25,31.25,high,low,7,spaceship,,,30/09/2026 05:41
 d77c72c6-4121-440e-9621-101ac038cfb7,senseless.cards,available,40.98,48.98,medium,low,9,namecheap,,,03/09/2026 17:48
+6cacb6e7-1155-422f-8fa5-e11a0686f4be,mutilation.cards,available,38.99,38.99,medium,low,10,namesilo,,,01/10/2026 20:52
 e7f317a4-1930-4b4c-b9c0-9206be51247d,boomer.cards,available,40.98,48.98,high,low,6,namecheap,,,21/09/2026 13:18
 49cf03e0-e603-43d0-9459-413ff57521f3,kongo.cards,available,30.2,30.2,high,low,5,cloudflare,,,01/10/2026 02:49
 73abc51f-f592-471c-82a7-36bc90a5be83,ordinate.cards,available,3.99,50.99,high,low,8,name.com,,,12/08/2026 22:29
@@ -307,6 +328,7 @@ e7f317a4-1930-4b4c-b9c0-9206be51247d,boomer.cards,available,40.98,48.98,high,low
 3dd7ca54-d0c2-4f42-a25e-4e92b705fe8f,ourselves.cards,available,38.99,38.99,medium,low,9,namesilo,,,27/09/2026 08:55
 f60e5824-963b-43b5-9ff5-e4ae67e6929d,crowing.cards,available,3.99,50.99,medium,low,7,name.com,,,10/08/2026 16:37
 35056928-45d6-446b-a29c-f50ac48604c9,noisily.cards,available,38.99,38.99,medium,low,7,namesilo,,,15/09/2026 16:46
+55ef3757-23c6-4201-bb82-34ffffda1ef9,jie.cards,available,38.99,38.99,high,low,3,namesilo,,,01/10/2026 23:37
 ed6e81b0-3b75-4fcd-87ce-798c76d479c2,burglar.cards,available,40.98,48.98,medium,low,7,namecheap,,,30/09/2026 00:56
 02054d23-722f-4b2b-963f-03b0dd141c09,salamanca.cards,available,38.99,38.99,medium,low,9,namesilo,,,28/09/2026 16:27
 3ef2fe66-6c2b-4f00-9f0d-56134805fa49,breasts.cards,available,3.99,,medium,low,7,name.com,,,
@@ -328,6 +350,7 @@ fee63472-15b9-48f0-aaab-0ecf0f5c5056,narragansett.cards,available,31.25,31.25,me
 347052a1-0947-4fab-82ec-41a24ec6645e,glucose.cards,available,40.98,48.98,high,low,7,namecheap,,,29/09/2026 01:05
 37350380-e641-4a98-ba06-5a5d76a28698,mannheim.cards,available,31.25,31.25,high,low,8,spaceship,,,28/09/2026 10:19
 294ae57f-7d7a-47be-a955-fbe1625b84f8,spartanburg.cards,available,38.99,38.99,high,low,11,namesilo,,,29/09/2026 22:45
+bf20b847-3229-4604-9a86-0cf6199ef192,carcass.cards,available,40.98,48.98,medium,low,7,namecheap,,,01/10/2026 18:54
 5acca7ea-c0b3-45cc-ab08-e5ea7db68bf3,ammonia.cards,available,38.99,38.99,high,low,7,namesilo,,,18/09/2026 22:08
 85320893-de74-462d-9ff9-87e5d7a29de4,contiguous.cards,available,3.99,50.99,medium,low,10,name.com,,,12/08/2026 23:11
 d7e80cc0-3332-4341-bf90-399b81b0e013,sported.cards,available,40.98,48.98,medium,low,7,namecheap,,,20/09/2026 16:50
@@ -345,6 +368,7 @@ d54a0fc4-572a-46d9-9601-8301a2c54246,broad.cards,available,38.99,38.99,high,low,
 39981ab5-851f-437f-82eb-952f3a6daa76,withholding.cards,available,31.25,31.25,medium,low,11,spaceship,,,30/09/2026 06:21
 9a174a67-27b2-4880-a8f0-6bc8b0c36640,larry.cards,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 12:43
 a2361cb8-2581-46ee-8716-90ebe6b42552,quadrant.cards,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 20:05
+326eabaa-736b-4b9e-8a31-99952541637f,inconvenient.cards,available,31.25,31.25,medium,low,12,spaceship,,,01/10/2026 05:50
 8e1a265f-a40f-482e-afb3-3badd15660d8,grinding.cards,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 19:23
 8fe64175-bb7f-4616-b96c-2a229d4c8aa9,integration.cards,available,2.5,32.21,high,low,11,dynadot,,,29/09/2026 23:22
 7d6a3d53-06b5-451e-b42d-aa677c5d21dd,preliminary.cards,available,2.57,31.41,medium,low,11,porkbun,,,28/09/2026 11:21
@@ -353,6 +377,7 @@ ef1852a0-9e76-4b94-bc3a-379de44f6b12,draped.cards,available,3.99,50.99,medium,lo
 9d6e2888-679c-4d47-ae18-488c477edec0,falklands.cards,available,31.25,31.25,medium,low,9,spaceship,,,30/09/2026 14:15
 ff0337a6-9432-4975-86be-2143fd09ac0d,wolverine.cards,available,38.99,38.99,high,low,9,namesilo,,,24/09/2026 12:48
 2f619d8d-fab9-47c2-951d-298f0044f24a,vapourish.cards,available,38.99,38.99,medium,low,9,namesilo,,,13/09/2026 01:13
+b4a38d4b-00c8-4213-9ad5-e45b8835474a,cordell.cards,available,31.25,31.25,medium,low,7,spaceship,,,01/10/2026 12:03
 659ea14f-f0ef-4551-a184-506c5ee3cbac,blackish.cards,available,3.99,50.99,medium,low,8,name.com,,,10/08/2026 12:03
 ce6bc765-16f5-4c13-a3ea-ff331b2edd20,unwonted.cards,available,38.99,38.99,low,low,8,namesilo,,,12/09/2026 22:48
 5aa936ca-709b-4f25-b5af-82a5fc9e84be,gaga.cards,available,3.99,50.99,medium,low,4,name.com,,,14/08/2026 14:34
@@ -394,6 +419,7 @@ d4dd7978-5fae-4a39-a4e8-8fccf22596fc,stonewalls.cards,available,38.99,38.99,low,
 fbf6b620-5fcf-454b-811d-873c3e165c88,forcible.cards,available,3.99,50.99,medium,low,8,name.com,,,18/08/2026 11:19
 003395e1-abb3-4e82-8dad-8da46a1539bf,abuse.cards,premium,78.54,78.54,high,low,5,namesilo,,,08/09/2026 12:39
 fb3a54a1-b566-4e3d-a62d-99dd54c86583,zinc.cards,available,38.99,38.99,high,low,4,namesilo,,,20/09/2026 22:44
+85378a2b-ef32-4330-963c-4f5824ce6835,garde.cards,available,30.2,30.2,high,low,5,cloudflare,,,01/10/2026 22:37
 4ed9e923-c8d8-485a-974e-4d4bb481493f,mountain.cards,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 20:48
 e4c71344-26cc-44f9-8a96-d022ba9e439d,movements.cards,available,31.25,31.25,low,low,9,spaceship,,,28/09/2026 12:36
 133ffea8-ab55-4a12-aec7-e9b3e767e441,grimly.cards,available,38.99,38.99,medium,low,6,namesilo,,,14/09/2026 22:25
@@ -426,11 +452,13 @@ d5534abb-5dd1-4a84-b036-f1f2d15e0fba,burly.cards,available,3.99,50.99,medium,low
 f762fe99-3af6-4a05-8256-9871f8114c87,airports.cards,available,31.25,31.25,medium,low,8,spaceship,,,30/09/2026 00:31
 2e16f7cb-3477-4d54-9fbe-b8eb98464107,binds.cards,available,31.25,31.25,low,low,5,spaceship,,,01/10/2026 00:28
 48735419-2cd3-4466-9b38-3f2e35a62c6b,chartres.cards,available,31.25,31.25,medium,low,8,spaceship,,,29/09/2026 11:53
+58b4014f-12bb-4b7e-bbf0-3c080f1652ad,encourages.cards,available,38.99,38.99,medium,low,10,namesilo,,,01/10/2026 17:35
 f813fa7f-e3ab-4101-8748-de8510c7862e,leather.cards,available,31.25,31.25,high,low,7,spaceship,,,30/09/2026 02:35
 a4940b59-d2bd-40b9-a0dc-c1c9b9799843,tagore.cards,available,31.25,31.25,medium,low,6,spaceship,,,30/09/2026 02:38
 0a1a76a2-8c05-4897-b009-f8b6cc2b8e73,dolorous.cards,available,3.99,50.99,medium,low,8,name.com,,,14/08/2026 15:30
 e58dc2d0-8210-45a5-aac1-7e3c8ffb5663,inelegant.cards,available,3.99,50.99,medium,low,9,name.com,,,22/08/2026 03:44
 604b82cf-5e99-42b8-8f0f-20eef306e6b1,paley.cards,available,38.99,38.99,medium,low,5,namesilo,,,29/09/2026 15:50
+13cd4712-21c6-4392-bd51-bee0d12806a6,davenport.cards,available,30.2,30.2,high,low,9,cloudflare,,,01/10/2026 19:12
 88075522-36d1-4309-8bbc-b6388342d702,peerless.cards,available,3.99,50.99,high,low,8,name.com,,,24/08/2026 17:04
 de675536-9cd6-45bb-8b4f-5115b1d1c444,tummy.cards,available,3.99,50.99,high,low,5,name.com,,,22/09/2026 17:49
 c92db8b7-192b-4fb8-8e71-b0e3ffdf977e,delaney.cards,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 04:06
@@ -442,6 +470,7 @@ d2b7ffc3-2a41-4d21-bdb1-449daa25fba1,cased.cards,available,3.99,50.99,medium,low
 1ac879e2-8cc5-472c-a4a6-d19629c71de6,barnburner.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 06:49
 e321c204-31ca-4c01-936b-6296bd65ef31,delete.cards,available,38.99,38.99,high,low,6,namesilo,,,29/09/2026 14:11
 bbe8d9f8-8cb5-414e-9c09-dbcadd43fa92,aditya.cards,available,38.99,38.99,high,low,6,namesilo,,,17/09/2026 08:23
+604c04a6-1dd6-4121-a20d-01939b07727f,hayward.cards,available,31.25,31.25,high,low,7,spaceship,,,01/10/2026 23:04
 f89b0e4e-8bbc-4b6b-b361-15b60a1278be,fiend.cards,available,3.99,50.99,medium,low,5,name.com,,,17/08/2026 21:54
 aeded8e2-dce2-4e0f-800c-fec4c9feb137,rushy.cards,available,40.98,48.98,medium,low,5,namecheap,,,09/09/2026 20:04
 3f00ee55-282d-40aa-9755-f9e9700bbada,gotta.cards,available,31.25,31.25,medium,low,5,spaceship,,,27/09/2026 16:53
@@ -461,6 +490,7 @@ fcb127e5-8fef-46fb-85d5-7df05c4a9b33,suites.cards,available,38.99,38.99,medium,l
 1e699dba-ff48-479b-9a47-b1e8b8429344,chief.cards,available,40.98,48.98,high,low,5,namecheap,,,23/09/2026 00:59
 d374b9a9-8d4b-41da-9248-4ccbe03df618,flaming.cards,available,3.99,50.99,high,low,7,name.com,,,18/08/2026 06:30
 ebfcb402-a2cd-4fac-afff-12255f4cdd73,cerebral.cards,available,3.99,50.99,high,low,8,name.com,,,12/08/2026 00:30
+a58332f7-5ba1-4833-a0a7-0e0bdb09f7ec,hens.cards,available,31.25,31.25,medium,low,4,spaceship,,,01/10/2026 18:16
 c1ada760-1330-41e8-8db3-cb567651f09c,pansy.cards,available,38.99,38.99,medium,low,5,namesilo,,,09/09/2026 08:07
 75d5f0ba-a87e-44f1-8389-1690177d00ba,unshoed.cards,available,40.98,48.98,low,low,7,namecheap,,,12/09/2026 19:51
 38a19670-f0dc-48c6-92f9-7c61829923d5,fayette.cards,available,40.98,48.98,medium,low,7,namecheap,,,27/09/2026 20:20
@@ -478,6 +508,7 @@ e64f0d6d-fe4f-4adb-8bad-412d0536ee6b,rollers.cards,available,31.25,31.25,medium,
 2ef74e6a-a05c-43b2-ac93-11b9ff46d931,organizations.cards,available,3.99,,medium,low,13,name.com,,,
 eee8947d-9580-4ac8-86cb-fd629939cf50,anglophile.cards,available,38.99,38.99,medium,low,10,namesilo,,,19/09/2026 06:52
 5c608367-a92d-4eaa-8ad8-bf6f306f2dcc,comatose.cards,available,3.99,50.99,medium,low,8,name.com,,,12/08/2026 18:25
+7d9472d9-9b18-48cc-be65-a398251b69de,redlands.cards,available,30.2,30.2,medium,low,8,cloudflare,,,01/10/2026 12:23
 9487c104-8f79-45bd-afce-c5a0f1913da8,kooky.cards,available,3.99,50.99,medium,low,5,name.com,,,06/08/2026 21:04
 40d48c5f-1583-45f8-94d6-47fdc3c71998,becker.cards,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 03:35
 d491e013-7dda-453d-8ed9-d807eb4201ac,evolutionary.cards,available,40.98,48.98,medium,low,12,namecheap,,,29/09/2026 10:23
@@ -492,11 +523,12 @@ e816f16b-a2ef-4599-987a-1209ad140b02,alliance.cards,available,38.99,38.99,high,l
 41fe3afc-65c0-4a1c-8662-5a847e51660f,rhoda.cards,available,3.99,,high,low,5,name.com,,,
 afd3797f-0edf-4d99-9dc1-12bcc31a8a95,needed.cards,available,38.99,38.99,high,low,6,namesilo,,,03/09/2026 14:49
 0a937da1-632b-41a0-9201-961774ba1ab1,acrid.cards,available,3.99,50.99,medium,low,5,name.com,,,
+1ff7a2c9-050a-4b3d-894e-ad9dbce9e877,bucharest.cards,available,31.25,31.25,high,low,9,spaceship,,,02/10/2026 04:11
 db8bb727-2299-4157-a883-567938188a15,unnoticed.cards,available,38.99,38.99,medium,low,9,namesilo,,,12/09/2026 16:02
 c9cbf02a-5f29-4bc0-aa7b-b90639e3277a,ripple.cards,available,38.99,38.99,high,low,6,namesilo,,,12/09/2026 08:34
 1436119a-fa65-47ca-a2fc-b1de6d681955,neurologic.cards,available,38.99,38.99,medium,low,10,namesilo,,,03/09/2026 16:16
 c47f07b1-d0df-40e1-bf6b-716d17e789cd,fright.cards,available,38.99,38.99,medium,low,6,namesilo,,,17/09/2026 14:50
-5e5085d2-f5db-40f9-8a32-cda654a4243e,his.cards,premium,118.8,118.8,high,low,3,namesilo,,,
+5e5085d2-f5db-40f9-8a32-cda654a4243e,his.cards,premium,118.8,118.8,high,low,3,namesilo,,,01/10/2026 11:33
 12239f26-45ae-4389-ab80-e91644fc54ed,usage.cards,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 04:06
 e2f47c6d-fcf1-4b50-9653-fec2364e108a,throwaway.cards,available,3.99,50.99,medium,low,9,name.com,,,11/08/2026 05:13
 fba279e4-8b2a-46b2-bae8-03e78e5090b9,angiology.cards,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 06:13
@@ -513,6 +545,7 @@ f7e3a531-d523-49f7-9d3e-789310d300ee,fatigued.cards,available,3.99,50.99,medium,
 b5a34554-a386-4e33-a8c4-707b898f8e6f,junky.cards,available,38.99,38.99,medium,low,5,namesilo,,,17/09/2026 06:52
 7e7b18ce-9efe-4645-8347-9e158a3a26ff,chart.cards,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 08:17
 6112a4c2-7541-4da1-aaa4-5f05fb41b259,bluestem.cards,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 04:58
+b36fcd0f-f7c4-43e9-8a0c-0bfdb3db61ea,carp.cards,available,31.25,31.25,medium,low,4,spaceship,,,01/10/2026 18:55
 2457b084-7b2b-4459-a13a-5c2f53eea1a5,watched.cards,available,38.99,38.99,high,low,7,namesilo,,,18/09/2026 01:33
 f7640e70-6e6d-4be7-9bb4-1fc67c039900,wonders.cards,available,38.99,38.99,high,low,7,namesilo,,,18/09/2026 02:01
 bcb4c96d-d9a5-4138-a3d4-db4035abf537,harm.cards,available,3.99,50.99,high,low,4,name.com,,,08/09/2026 07:44
@@ -536,7 +569,7 @@ bf224049-12ee-4894-b70b-52d1964e1ea0,neotenous.cards,available,38.99,38.99,low,l
 bbbcc361-90fd-4941-b014-fdc9ea03cf16,cornish.cards,available,3.99,50.99,high,low,7,name.com,,,13/08/2026 01:42
 736e3fbe-923c-4caa-9898-08d7459fd815,hangzhou.cards,available,38.99,38.99,high,low,8,namesilo,,,30/09/2026 17:32
 7c1c6083-98a8-4377-a03c-18decbea3267,easton.cards,available,38.99,38.99,medium,low,6,namesilo,,,25/09/2026 16:33
-179d9f94-7ee5-42d3-878b-65ee2ceca573,designers.cards,available,38.99,38.99,high,low,9,namesilo,,,29/09/2026 12:09
+179d9f94-7ee5-42d3-878b-65ee2ceca573,designers.cards,available,40.98,48.98,high,low,9,namecheap,,,01/10/2026 18:23
 5dfb8ff4-64a2-41f8-a09e-6a364c7a34b7,poughkeepsie.cards,available,31.25,31.25,medium,low,12,spaceship,,,29/09/2026 04:37
 0fc3c2f4-e607-4e7c-b64a-1a9b9cf7951b,dissolve.cards,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 16:16
 33be7a94-1770-4b3a-b9ac-32b85e4a9446,awakening.cards,available,31.25,31.25,high,low,9,spaceship,,,28/09/2026 23:36
@@ -553,10 +586,12 @@ e170f120-1e98-4d28-82b8-2ae20eacf22a,vales.cards,available,38.99,38.99,medium,lo
 51d79ba8-84b5-42c1-abbe-e5fdbdb0da1b,commit.cards,available,2.57,31.41,high,low,6,porkbun,,,30/09/2026 17:30
 c807c4ca-6be3-4c19-af71-ebfe264718ba,adults.cards,available,38.99,38.99,medium,low,6,namesilo,,,27/09/2026 09:52
 60c266d7-4b14-4892-a975-3da349ec02a4,antiserum.cards,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 15:05
+fede9ec9-0d0f-4794-8be3-45e01ff80188,compress.cards,available,40.98,48.98,high,low,8,namecheap,,,01/10/2026 19:02
 4120e001-97b6-4678-b253-5670ff1b8dc6,enlivening.cards,available,3.99,50.99,medium,low,10,name.com,,,
 99261f63-4c79-4623-b661-cd084651d7b3,domed.cards,available,3.99,50.99,high,low,5,name.com,,,14/08/2026 15:37
 5faf41a0-309d-4865-9c7a-09181e020432,salah.cards,available,31.25,31.25,high,low,5,spaceship,,,30/09/2026 18:35
 1c23cedd-0a33-4662-a06e-089102c1ff9d,pervasive.cards,available,38.99,38.99,high,low,9,namesilo,,,08/09/2026 17:44
+c06b494b-aa83-48a4-9627-d37f62ea36dc,mouthpiece.cards,available,2.5,32.21,high,low,10,dynadot,,,01/10/2026 19:25
 b6b1be67-e192-4f71-9c25-4329df630f65,toilets.cards,available,38.99,38.99,low,low,7,namesilo,,,28/09/2026 23:58
 5d875f15-49c4-405a-875b-bbb04ae9c14a,bracelet.cards,available,38.99,38.99,high,low,8,namesilo,,,22/09/2026 01:56
 f5b9fd36-a21c-4d42-ab4c-caa70df13b3b,oozy.cards,available,38.99,38.99,medium,low,4,namesilo,,,04/09/2026 15:30
@@ -591,7 +626,7 @@ fe86f7c5-4c0d-4e0c-b2fe-b4234b42d037,unitarian.cards,available,38.99,38.99,high,
 4aa54b7e-59d6-4c3d-b997-ca61f1a2df29,grump.cards,available,3.99,50.99,medium,low,5,name.com,,,13/08/2026 04:58
 d398863c-be64-476c-adbc-bfd9ee4d5463,braga.cards,available,38.99,38.99,high,low,5,namesilo,,,30/09/2026 08:48
 0e2a04a7-3952-4f2e-bde4-a0a6cd55938f,supportive.cards,available,31.25,31.25,high,low,10,spaceship,,,28/09/2026 02:03
-15045dc9-b719-47e7-89fc-5b07f13b1398,distinguished.cards,available,3.99,,high,low,13,name.com,,,
+15045dc9-b719-47e7-89fc-5b07f13b1398,distinguished.cards,available,31.25,31.25,high,low,13,spaceship,,,01/10/2026 19:21
 1b1dcc3a-121d-4ca7-88c9-c2ce8f760653,buzzing.cards,available,3.99,50.99,high,low,7,name.com,,,
 d06b41e1-9501-498f-9029-1286819dda58,drills.cards,available,38.99,38.99,medium,low,6,namesilo,,,30/09/2026 15:41
 a61e2f68-9ff4-4cd4-9dcc-3e4767f81064,thenar.cards,available,38.99,38.99,medium,low,6,namesilo,,,11/09/2026 12:51
@@ -613,6 +648,7 @@ d8989049-c2bf-47c9-969f-2fbcbf889ad9,emanuel.cards,available,38.99,38.99,high,lo
 2da7f0eb-2e74-44ab-b002-0308b929e5fa,antonymous.cards,available,3.99,50.99,medium,low,10,name.com,,,05/08/2026 20:16
 ebbffd01-b9b2-4f2d-839a-ea32fa498309,bearberry.cards,available,40.98,48.98,medium,low,9,namecheap,,,22/09/2026 20:57
 926c0ab8-b580-4ed1-903e-3450962e2384,continuity.cards,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 17:42
+559023ea-2dcd-422b-a1d8-75c6b0672b47,ignores.cards,available,31.25,31.25,low,low,7,spaceship,,,02/10/2026 03:56
 b66b0869-2933-4fc9-b0d9-5a080f6264ca,punctually.cards,available,3.99,50.99,medium,low,10,name.com,,,14/09/2026 14:45
 a2922df8-8ab3-4c06-946b-a2088a1fdb16,starving.cards,available,40.98,48.98,medium,low,8,namecheap,,,10/09/2026 19:04
 1e3f869e-a180-40df-b70e-71d4b1446398,grantee.cards,available,38.99,38.99,medium,low,7,namesilo,,,18/09/2026 07:39
@@ -639,7 +675,7 @@ e0427b05-117a-41f5-8612-caa348bed88a,adad.cards,available,38.99,38.99,medium,low
 1552b293-3417-4343-a15e-7a1426bf6670,housewife.cards,available,38.99,38.99,medium,low,9,namesilo,,,29/09/2026 01:18
 e51bd639-745d-4af2-9ba9-93d431bf9741,owned.cards,available,38.99,38.99,high,low,5,namesilo,,,26/09/2026 03:41
 39acd19c-2b11-499b-97d9-ec47c164f714,niffy.cards,available,38.99,38.99,low,low,5,namesilo,,,03/09/2026 17:10
-2d099347-a253-4293-bbeb-6533d1c441b3,elimination.cards,available,38.99,38.99,high,low,11,namesilo,,,28/09/2026 02:39
+2d099347-a253-4293-bbeb-6533d1c441b3,elimination.cards,available,38.99,38.99,high,low,11,namesilo,,,02/10/2026 05:32
 86e46744-2325-42d1-921b-acdc753b2d56,tropics.cards,available,38.99,38.99,high,low,7,namesilo,,,30/09/2026 11:12
 0503d027-1e26-4143-8b76-74e9700a68b0,shook.cards,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 20:26
 6a1b006b-cc1d-4b96-8b65-5ec75fdab1bf,overnice.cards,available,40.98,48.98,medium,low,8,namecheap,,,04/09/2026 21:20
@@ -652,6 +688,7 @@ cb696ed9-2998-4be4-8e78-9afaa01cd6a4,gad.cards,available,40.98,48.98,medium,low,
 10e450a1-420a-4008-8852-73caf78db0c9,debacle.cards,available,38.99,38.99,medium,low,7,namesilo,,,13/09/2026 07:56
 851724ca-a3ab-440d-ba6b-0161b2ac4b88,walked.cards,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 01:20
 fb75dcd3-3d61-4192-a7ad-0aad527f0db1,viennese.cards,available,38.99,38.99,high,low,8,namesilo,,,13/09/2026 05:30
+24856293-0ffa-437e-8beb-4dcfd915141d,competitions.cards,available,31.25,31.25,medium,low,12,spaceship,,,01/10/2026 18:30
 90ee8d6a-b7fb-4c3f-b3ef-16f705c64da9,seats.cards,available,40.98,48.98,high,low,5,namecheap,,,30/09/2026 10:51
 99cec916-6cc8-49b5-a3fe-2909289f7d54,diocesan.cards,available,3.99,50.99,medium,low,8,name.com,,,14/08/2026 08:18
 3d7b1535-e833-4d52-9bc6-e2f7860764b8,overload.cards,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 13:38
@@ -690,10 +727,12 @@ e50b6a66-b695-4af2-b9d6-3986cd79751b,hollow.cards,available,3.99,50.99,high,low,
 0d8d1f72-fd8e-4092-ac17-263a9377c6bd,rove.cards,available,3.99,50.99,high,low,4,name.com,,,10/09/2026 22:12
 b4e87c47-8118-414c-8f91-64238d486ae0,luca.cards,available,31.25,31.25,high,medium,4,spaceship,,,28/09/2026 07:26
 897044e3-4abc-47f6-b16b-fb687054ee31,humdrum.cards,available,3.99,50.99,medium,low,7,name.com,,,21/08/2026 15:05
+9ef1df86-9f4a-4cce-84bc-bc9d3b3afc1f,fortnight.cards,available,38.99,38.99,high,low,9,namesilo,,,02/10/2026 04:55
 e49aaa29-502c-47ea-ab4f-ab567fbc77aa,phases.cards,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 14:38
 643fb18f-b3a5-4078-bcb1-eadc198be7f0,bumpkin.cards,available,3.99,50.99,medium,low,7,name.com,,,21/08/2026 08:07
 bebfaf75-acab-412f-991f-62031de07324,sammy.cards,available,38.99,38.99,high,low,5,namesilo,,,26/09/2026 03:25
 c53c0991-0a53-43e9-98fc-b60f0047b4d5,hartley.cards,available,38.99,38.99,high,low,7,namesilo,,,25/09/2026 04:45
+6eb8a2f6-0b85-4a4d-a217-2e8517181052,combines.cards,available,30.2,30.2,medium,low,8,cloudflare,,,02/10/2026 02:48
 0962b7d2-b2d0-4e68-8485-25b34c341b75,brotherly.cards,available,3.99,50.99,high,low,9,name.com,,,11/08/2026 06:18
 13fd12f0-1fb9-4d6d-b205-6526fe8be126,heedful.cards,available,3.99,50.99,medium,low,7,name.com,,,
 cf2792ca-d674-4e48-99b8-8cf57608452c,motorist.cards,available,38.99,38.99,high,low,8,namesilo,,,21/09/2026 07:26
@@ -711,6 +750,7 @@ e3df731a-def7-425a-8ea5-77511b14e6c5,appreciates.cards,available,40.98,48.98,med
 ff53f047-8920-45ac-a7d8-1d5f81164f70,confetti.cards,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 10:53
 384bd935-c25a-4c8c-82f9-fcc1b80d5ab7,most.cards,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 21:48
 6c2bb55d-f3f7-4448-9a31-13d4b3b62f2f,avahi.cards,available,38.99,38.99,medium,low,5,namesilo,,,21/09/2026 08:36
+ffb4bbfd-c401-4329-8e8b-6b8a1cd24c0a,ema.cards,available,38.99,38.99,high,low,3,namesilo,,,01/10/2026 16:52
 7cb03414-9fcf-44bc-a372-11b372847171,apache.cards,available,40.98,48.98,high,low,6,namecheap,,,19/09/2026 16:09
 fd26f98b-eb43-4c28-b11e-60c5edb794bf,winfred.cards,available,40.98,48.98,medium,low,7,namecheap,,,19/09/2026 19:23
 f16b4d85-2db4-4724-84e4-621b2d44a283,employ.cards,available,38.99,38.99,high,low,6,namesilo,,,08/09/2026 13:39
@@ -718,6 +758,7 @@ f16b4d85-2db4-4724-84e4-621b2d44a283,employ.cards,available,38.99,38.99,high,low
 47698adf-08e7-4713-a632-22e224b57c5c,toward.cards,available,38.99,38.99,high,low,6,namesilo,,,01/10/2026 02:02
 11caef41-1827-4921-9d31-4894d8f76e44,biennial.cards,available,3.99,50.99,high,low,8,name.com,,,09/08/2026 19:52
 f60871ef-ffa4-4dc6-ab03-6f1be28a0cb9,uncrossed.cards,available,38.99,38.99,medium,low,9,namesilo,,,12/09/2026 06:33
+0f16d51a-273f-43d7-828c-32d168d75d42,abington.cards,available,31.25,31.25,medium,low,8,spaceship,,,02/10/2026 01:44
 966ad09a-d5c2-4295-8a00-b588e1fa4c3d,overheard.cards,available,30.2,30.2,medium,low,9,cloudflare,,,29/09/2026 22:55
 b183ad62-5196-4103-822e-1fe604dc1666,titus.cards,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 05:37
 e0ba3912-b926-42d5-9703-7aff86f1f9c8,gratis.cards,premium,123.75,123.75,high,low,6,name.com,,,20/08/2026 18:35
@@ -733,6 +774,8 @@ c5f05144-4931-432d-9165-a7ae2ad2bb4c,nadia.cards,available,38.99,38.99,medium,lo
 c48fac7f-5885-4e9e-8df9-1fc80d8d65ba,ivo.cards,available,38.99,38.99,high,low,3,namesilo,,,30/09/2026 04:54
 23998ed3-a396-4236-8180-f946e577e286,blowing.cards,available,38.99,38.99,medium,low,7,namesilo,,,25/09/2026 00:21
 f7289165-0d06-45e1-b398-7de1fdf3c294,unimposing.cards,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 13:12
+d63d9ada-9dcc-4a1b-989c-5ae62bd6b76a,camacho.cards,available,40.98,48.98,high,low,7,namecheap,,,01/10/2026 10:54
+71d5e261-bc13-4ae6-a971-91fb85cc3e6b,humankind.cards,available,38.99,38.99,high,low,9,namesilo,,,02/10/2026 05:22
 c79c1054-d33a-4879-b7d9-4fd871d4a2d1,ironlike.cards,available,3.99,50.99,medium,low,8,name.com,,,22/08/2026 10:10
 71f36d96-41f3-4464-a16f-be2fb587a4c3,novel.cards,available,38.99,38.99,high,low,5,namesilo,,,03/09/2026 22:19
 1b6b29df-6c6f-46c9-8335-8f7f1e140d17,polyphonic.cards,available,38.99,38.99,medium,low,10,namesilo,,,08/09/2026 23:27
@@ -747,11 +790,14 @@ f2b0f91e-5bfd-45b7-9f81-2f779dd49e7b,raphael.cards,available,31.25,31.25,high,lo
 8d553698-a29f-4f4b-986a-1653b3467788,waltz.cards,available,30.2,30.2,high,low,5,cloudflare,,,28/09/2026 15:32
 86585022-7768-4a20-88c3-8c6bc6681d21,mesozoic.cards,available,3.99,50.99,medium,low,8,name.com,,,24/08/2026 21:21
 a8112156-ad22-45e1-ae2d-754cc66c09a8,fonts.cards,available,38.99,38.99,medium,low,5,namesilo,,,20/09/2026 22:56
+a5980b53-a6b4-442d-9b4a-9ec10fe23051,stoke.cards,available,38.99,38.99,high,low,5,namesilo,,,01/10/2026 22:13
 8111a73c-7f1f-4c7a-808a-65733712ab58,mottled.cards,available,3.99,50.99,medium,low,7,name.com,,,13/08/2026 17:41
 36e58ae9-3659-4f66-a770-3f41e5c5a20f,finable.cards,available,3.99,50.99,medium,low,7,name.com,,,18/08/2026 04:28
+7436fd55-245e-4d32-a34f-edf9e16566bc,inhibitors.cards,available,38.99,38.99,low,low,10,namesilo,,,02/10/2026 04:01
 00be78f4-89a9-400a-8542-aa6ece6d2763,yvette.cards,available,30.2,30.2,medium,low,6,cloudflare,,,30/09/2026 20:09
 a187e4bf-7d8e-4b8c-9cbc-94c6b88b0fe2,zane.cards,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 04:01
 be9280c6-2960-4fa8-b7bd-226a30c2325b,oracular.cards,available,38.99,38.99,medium,low,8,namesilo,,,04/09/2026 17:12
+aab5151b-9561-496a-8033-7285de8bdc3f,keokuk.cards,available,31.25,31.25,medium,low,6,spaceship,,,01/10/2026 20:13
 9bb17a81-11e1-498f-a1f3-2722fb546bc4,michelle.cards,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 13:16
 eed4e1d8-54e2-4f7f-b58e-3f36f195e935,belt.cards,available,38.99,38.99,high,low,4,namesilo,,,28/09/2026 13:21
 20936a7d-13ed-4754-8797-03e152d1603b,sahel.cards,available,31.25,31.25,medium,low,5,spaceship,,,30/09/2026 20:57
@@ -762,6 +808,7 @@ fafadc74-bc16-4396-b7bb-597640d61e74,lowborn.cards,available,3.99,50.99,medium,l
 a285c92f-1941-497b-976e-b384d4dfaf01,prowlers.cards,available,38.99,38.99,low,low,8,namesilo,,,20/09/2026 12:42
 57a5fc93-ed8e-4cde-bc38-9d768c0da374,parietal.cards,available,38.99,38.99,medium,low,8,namesilo,,,08/09/2026 01:33
 3f9029e5-dc0d-48ea-a5ec-b0aa15b3f9df,galactic.cards,available,3.99,50.99,high,low,8,name.com,,,18/08/2026 19:35
+47b36728-1db1-4917-b552-520487603de6,elihu.cards,available,30.2,30.2,medium,low,5,cloudflare,,,01/10/2026 07:45
 ba2b6bb2-8072-447a-aa03-ba84697577c0,trig.cards,available,3.99,50.99,high,low,4,name.com,,,12/08/2026 10:13
 afebe6cf-a894-498a-93b5-5e4a1eeea335,plausible.cards,available,40.98,48.98,high,low,9,namecheap,,,08/09/2026 20:55
 5296bf42-a3e8-48e9-9c92-2f965c9da3c1,bicentric.cards,available,3.99,50.99,medium,low,9,name.com,,,09/08/2026 19:09
@@ -783,6 +830,7 @@ e83adc4c-d9ce-4d51-9b37-1860dcba180e,syringe.cards,available,38.99,38.99,high,lo
 683cc908-57f8-4e42-8a4b-a0a1cb1fed35,explained.cards,available,38.99,38.99,medium,low,9,namesilo,,,17/09/2026 15:48
 f874e79e-037b-409b-aade-d711f2663a92,loamy.cards,available,3.99,50.99,medium,low,5,name.com,,,24/08/2026 08:15
 e7d92133-4260-4838-8e3a-b0c7a265d259,aldrich.cards,available,40.98,48.98,medium,low,7,namecheap,,,28/09/2026 04:14
+afafc9f0-a204-4a96-8710-0f9206fc64a4,nabokov.cards,available,40.98,48.98,medium,low,7,namecheap,,,01/10/2026 21:08
 e8be5a52-5349-436d-b60d-cf104e35a7f5,unsociable.cards,available,3.99,50.99,medium,low,10,name.com,,,12/09/2026 20:09
 c1483e25-32ac-4df9-aa8a-bd364fb21acc,fifth.cards,available,3.99,50.99,high,low,5,name.com,,,
 68c9a7f8-283a-4bdf-b90a-b86227c49618,getaways.cards,available,40.98,48.98,medium,low,8,namecheap,,,20/09/2026 18:37
@@ -790,6 +838,7 @@ d250a9f7-e3b3-41d4-be7b-7ac4fe06dce7,berlage.cards,available,38.99,38.99,medium,
 fa893607-0256-4bdc-8bb9-3a8990738baf,spikes.cards,available,38.99,38.99,high,low,6,namesilo,,,30/09/2026 07:14
 6d6044b1-1999-4fcd-bbe9-221a5de39bd2,fluid.cards,available,3.99,50.99,high,low,5,name.com,,,18/08/2026 09:14
 9c2e4cc3-5964-40b3-a890-7c355dc9905b,pertinence.cards,available,38.99,38.99,medium,low,10,namesilo,,,19/09/2026 21:52
+bc0a6579-1915-4455-8e65-a9fa631f624e,longwood.cards,available,38.99,38.99,medium,low,8,namesilo,,,02/10/2026 01:09
 2ed03eaf-e270-403a-a976-e9046e289b57,abducent.cards,available,3.99,50.99,medium,low,8,name.com,,,
 78d83cb8-7ac9-4330-b701-2ae82b3471fd,capped.cards,available,3.99,50.99,medium,low,6,name.com,,,11/08/2026 18:02
 9cf60d63-ca2e-4655-b91a-daaa0999c15f,dlc.cards,available,38.99,38.99,high,low,3,namesilo,,,28/09/2026 12:11
@@ -822,7 +871,8 @@ af3bb1fd-fab2-4884-8870-790dc4e4dfc3,barefaced.cards,available,3.99,50.99,medium
 b8756f80-df01-4adc-a146-d2cc80ce848b,matthias.cards,available,2.57,31.41,high,low,8,porkbun,,,27/09/2026 19:32
 f64d3dac-fcd1-4d95-b4eb-3d2ac3c7a93c,burp.cards,available,40.98,48.98,high,low,4,namecheap,,,23/09/2026 04:37
 12ccf30c-4079-4919-bccf-f376f1ca0b0f,stated.cards,available,40.98,48.98,high,low,6,namecheap,,,10/09/2026 19:08
-2aee073a-6c48-480d-8f22-0d7cfe7e30a7,adding.cards,available,3.99,,high,low,6,name.com,,,
+2aee073a-6c48-480d-8f22-0d7cfe7e30a7,adding.cards,available,30.2,30.2,high,low,6,cloudflare,,,01/10/2026 19:40
+aa7469ed-358c-48d5-a330-ae922a2590ad,evaluated.cards,available,30.2,30.2,medium,low,9,cloudflare,,,01/10/2026 16:32
 1bd9afb3-29a4-475f-b4bc-9a2f28e3ede1,bruckner.cards,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 15:26
 5f482ce8-943e-430b-a367-3a62f88d3def,guido.cards,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 06:38
 2d35acd2-51e9-4962-a967-3e0b6ad39af7,habitable.cards,available,3.99,50.99,high,low,9,name.com,,,20/08/2026 21:25
@@ -867,6 +917,7 @@ dd5ad079-c57a-43cc-bb0f-53d59ca65c75,infield.cards,available,38.99,38.99,high,lo
 a7edc9ca-f617-48db-8750-fb1272442056,mahmoud.cards,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 04:11
 db07397d-5573-4c65-b6a9-f44af34d24dc,intrinsic.cards,available,38.99,38.99,high,low,9,namesilo,,,25/09/2026 10:55
 0e6b6a51-73b6-4c53-9366-c7065cdff715,parity.cards,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 13:55
+31a03824-f95b-4ef0-a721-35b4a6956eab,evicted.cards,available,31.25,31.25,medium,low,7,spaceship,,,01/10/2026 17:40
 90d1f2fe-bd3e-4b78-8d60-d5d6db0b0cef,trivial.cards,available,40.98,48.98,high,low,7,namecheap,,,24/09/2026 17:54
 5a897a91-6a20-4c88-812f-c36244917d49,cabinet.cards,available,38.99,38.99,high,low,7,namesilo,,,24/09/2026 11:32
 1064f762-b038-4d35-aef2-181df5d2645f,alley.cards,available,31.25,31.25,medium,low,5,spaceship,,,28/09/2026 20:31
@@ -895,6 +946,7 @@ eac20ac5-4ad9-4fa1-9739-ff0b93fa92ff,berceuse.cards,available,38.99,38.99,high,l
 996e4908-3478-44b8-b969-0cd0c932489b,retrovir.cards,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 11:31
 ef5b94b1-745a-4c85-8aea-207075e69d02,grover.cards,available,31.25,31.25,medium,low,6,spaceship,,,29/09/2026 09:39
 af0b3c45-02be-4e03-9a71-77eecc3f4ef5,suburban.cards,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 00:54
+90f5aa18-368b-4606-93c2-c14273cba7a4,enamel.cards,available,30.2,30.2,high,low,6,cloudflare,,,01/10/2026 19:28
 20ffb9b6-878c-4f37-9f5e-540c242bf995,caesarean.cards,available,3.99,50.99,medium,low,9,name.com,,,11/08/2026 13:05
 ff746974-eb29-4a89-b913-006094370581,cyclical.cards,available,3.99,50.99,high,low,8,name.com,,,13/08/2026 13:34
 a0cb7055-3710-46c4-b4e6-07a8ef9e445e,assertion.cards,available,38.99,38.99,high,low,9,namesilo,,,20/09/2026 16:14
@@ -907,6 +959,7 @@ c535bba3-9be8-4267-8f4a-faabe309fdc9,litigate.cards,available,38.99,38.99,medium
 aaeab1d7-36c1-4821-9ccc-fc649e2c7bc6,babble.cards,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 12:19
 e56d69ba-74f6-4f90-83ea-4b3ead20544f,rubidium.cards,available,40.98,48.98,medium,low,8,namecheap,,,20/09/2026 22:58
 47fee9ba-cdfd-482c-bbf6-bb4d1a0eaed2,kosovo.cards,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 23:25
+53d11825-27c9-4409-be91-f4083027b863,tights.cards,available,2.5,32.21,high,low,6,dynadot,,,02/10/2026 05:36
 5d995dca-5a1e-4844-81c5-1eb1db4fcab1,searches.cards,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 07:30
 b7163b5f-cb36-43db-852d-6e456415649b,gangster.cards,available,38.99,38.99,medium,low,8,namesilo,,,28/09/2026 09:51
 765a032a-2fba-438f-8f94-c4d19ab042bd,strabismus.cards,available,40.98,48.98,medium,low,10,namecheap,,,10/09/2026 17:49
@@ -926,13 +979,13 @@ f520ca2f-9acb-4cab-ba1f-9a74d9a9e2b0,untaught.cards,available,40.98,48.98,medium
 08a3b0bc-dd94-4043-b228-911e5081b6d1,rodrigues.cards,available,30.2,30.2,medium,low,9,cloudflare,,,29/09/2026 04:31
 28e19d62-a56a-46a7-b9da-0fc4390086da,billed.cards,available,3.99,50.99,high,low,6,name.com,,,09/08/2026 21:23
 e3f420d5-67a7-48b6-94b9-14b008aaf4bf,seaside.cards,available,38.99,38.99,high,low,7,namesilo,,,30/09/2026 10:48
-8b88c6dd-33c3-48cf-a71e-0fe858cff8f1,categorically.cards,available,3.99,,medium,low,13,name.com,,,
+8b88c6dd-33c3-48cf-a71e-0fe858cff8f1,categorically.cards,available,38.99,38.99,medium,low,13,namesilo,,,02/10/2026 00:27
 596d2306-1d15-42a8-b175-6a27c316a9c9,hagerstown.cards,available,30.2,30.2,medium,low,10,cloudflare,,,29/09/2026 19:06
 32245f82-085b-496c-9d79-54b6eda4102f,bumpy.cards,available,3.99,50.99,medium,low,5,name.com,,,11/08/2026 09:48
 de731a6d-aadc-41eb-b958-db1d4a00f8da,swore.cards,available,40.98,48.98,medium,low,5,namecheap,,,28/09/2026 04:28
 86128f73-bd16-499a-baa4-16020a55c0b7,enjoyed.cards,available,38.99,38.99,medium,low,7,namesilo,,,25/09/2026 20:42
 bc07b88c-43db-4ab8-a99f-75dd46cc88a7,softback.cards,available,38.99,38.99,high,low,8,namesilo,,,05/09/2026 01:13
-1be90a82-0e26-4ea8-ab1f-661568d76fd3,diagnosis.cards,available,3.99,50.99,high,low,9,name.com,,,24/09/2026 22:08
+1be90a82-0e26-4ea8-ab1f-661568d76fd3,diagnosis.cards,available,2.57,31.41,high,low,9,porkbun,,,01/10/2026 22:09
 30c74630-5cb4-4efc-a1f4-9ee1348b3652,basiliscus.cards,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 10:53
 462384ad-244c-4f2f-82a1-a4edb5348f81,snake.cards,available,38.99,38.99,high,low,5,namesilo,,,30/09/2026 06:09
 05398e98-f788-4462-91b1-615f07cf9164,diabolic.cards,available,3.99,50.99,medium,low,8,name.com,,,14/08/2026 01:28
@@ -946,56 +999,3 @@ e8b550e7-da0d-4026-882c-a3a822e53b9e,diligence.cards,available,40.98,48.98,high,
 589c6918-7327-481d-8b7c-540b23fcbc30,oxidative.cards,available,38.99,38.99,medium,low,9,namesilo,,,04/09/2026 22:23
 28d4d166-6433-43da-bfa4-e098ecd18eaa,punic.cards,available,3.99,50.99,medium,low,5,name.com,,,11/08/2026 19:51
 fca7438c-302b-4334-ba8c-22161ce1e586,arak.cards,available,38.99,38.99,medium,low,4,namesilo,,,19/09/2026 23:47
-b52941aa-f513-4835-9168-ef30cb18cc6c,caretaker.cards,available,38.99,38.99,high,low,9,namesilo,,,28/09/2026 13:39
-47c70aa8-160a-458c-ab13-d45bfdef0044,cunningham.cards,available,38.99,38.99,high,low,10,namesilo,,,25/09/2026 04:27
-d0602543-425a-43d6-a871-55bbfc82b772,changer.cards,available,40.98,48.98,high,low,7,namecheap,,,21/09/2026 05:31
-09f41e2e-f16d-408d-8989-92977ef06cd5,money.cards,premium,854,854,high,medium,5,namesilo,,,30/09/2026 05:05
-a9a5e8ee-5fb5-4fc8-879b-bd33ff0517fd,ripe.cards,available,40.98,48.98,high,low,4,namecheap,,,27/09/2026 15:25
-b75aaaff-12ea-4c24-a267-59a1f6195455,glowingly.cards,available,38.99,38.99,medium,low,9,namesilo,,,14/09/2026 21:48
-7ba41ebd-b844-4166-8a33-a9ee5466d0b7,sweater.cards,available,38.99,38.99,high,low,7,namesilo,,,28/09/2026 06:35
-76948f1f-8274-4680-8190-e6259bca558d,exceptionally.cards,available,38.99,38.99,medium,low,13,namesilo,,,29/09/2026 03:12
-8c7b88f4-483f-4478-a484-68cd39e606cd,fireman.cards,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 06:56
-de2a8006-3064-4d56-874f-813035caab2f,soleless.cards,available,38.99,38.99,low,low,8,namesilo,,,10/09/2026 13:37
-6b0ecb6b-ef96-4aea-b376-7c0793495c1a,city.cards,resell,,,high,medium,4,"GoDaddy.com, LLC",23/01/2018 12:33,23/01/2027 12:33,29/09/2026 09:34
-3f5cc0f4-eeb8-46c4-b5eb-47517a86dbf7,unsung.cards,available,40.98,48.98,medium,low,6,namecheap,,,12/09/2026 20:49
-466f13b6-52f9-4410-9f94-8c4d035f7968,toitoi.cards,available,38.99,38.99,medium,low,6,namesilo,,,20/09/2026 12:23
-79b08c73-9227-4459-8e94-d6da437f487a,pucka.cards,available,38.99,38.99,medium,low,5,namesilo,,,09/09/2026 05:26
-b151ef81-de06-4e35-a4fb-a358528fc077,revolver.cards,available,2.5,32.21,high,low,8,dynadot,,,28/09/2026 20:20
-0a538cd0-99ff-494c-abd0-9a097955da06,redstart.cards,available,40.98,48.98,high,low,8,namecheap,,,18/09/2026 20:37
-91ab14f6-bea6-4d6f-9650-ccdfa5eaa128,angle.cards,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 13:22
-a653d0ef-fd2f-4c41-a8f3-f9693f865678,dustbin.cards,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 13:42
-db8344ca-f2ec-40e2-8f7e-a458f72e75c3,unproven.cards,available,38.99,38.99,medium,low,8,namesilo,,,12/09/2026 17:33
-500d2443-3a4c-4022-836c-9b04daa0310c,tilefish.cards,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 04:04
-6e700b3b-b875-42ea-b447-2424d04becc6,infantile.cards,available,3.99,50.99,medium,low,9,name.com,,,12/08/2026 05:04
-3144d83d-41a4-49a9-837f-30f11cb19ee4,attired.cards,available,3.99,50.99,medium,low,7,name.com,,,06/08/2026 04:47
-d874b5fe-9fba-4f63-ac20-275ac12ae985,generating.cards,available,3.99,,medium,low,10,name.com,,,
-7602b7e8-3c9b-4dfd-ab26-b85c94ea3dbb,overtime.cards,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 16:30
-79d2ca4c-087b-4c7b-88fa-dfc596e87c26,comforted.cards,available,40.98,48.98,high,low,9,namecheap,,,23/09/2026 15:14
-0f31b82a-f26e-4da3-8847-f70ce5fa343b,tottenham.cards,available,40.98,48.98,medium,low,9,namecheap,,,29/09/2026 22:19
-3e2f021d-cf18-43f1-8af9-9906ae58287a,expectations.cards,available,40.98,48.98,medium,low,12,namecheap,,,28/09/2026 08:38
-13d0cf20-15b7-4df6-a97f-ee74345eda44,baryon.cards,available,38.99,38.99,medium,low,6,namesilo,,,22/09/2026 09:41
-f8e4ba01-2005-4222-9818-018d8fa37e43,filaria.cards,available,38.99,38.99,medium,low,7,namesilo,,,18/09/2026 06:14
-5d60a0c0-7f50-4ea3-940d-5cee89522d70,spears.cards,available,31.25,31.25,medium,low,6,spaceship,,,29/09/2026 05:36
-e2ca105b-2984-4a4b-a0d0-3367df185f81,remotely.cards,available,38.99,38.99,medium,low,8,namesilo,,,15/09/2026 23:10
-00e01d40-d4f0-461c-b5c7-ddfff6c5de65,dion.cards,available,40.98,48.98,medium,low,4,namecheap,,,28/09/2026 09:08
-e07b230c-7c22-4e0e-88e9-0f2ce3c0ed62,overdue.cards,available,38.99,38.99,medium,low,7,namesilo,,,26/09/2026 03:28
-dd7801b9-3d61-47f5-a411-bdaf8c8c645d,nonsuch.cards,available,3.99,50.99,medium,low,7,name.com,,,03/09/2026 20:15
-b3be373e-12b4-4358-a930-7394f4993496,presently.cards,available,31.25,31.25,medium,low,9,spaceship,,,28/09/2026 13:26
-c4677979-827f-41dc-8856-fd9b502e9e9a,gloriously.cards,available,38.99,38.99,medium,low,10,namesilo,,,14/09/2026 21:45
-0724f5cc-2f2f-4325-b704-108814110fb1,awakened.cards,available,38.99,38.99,high,low,8,namesilo,,,22/09/2026 14:47
-63db0941-0e03-4293-9d1b-ce91db5616b0,amorpha.cards,available,38.99,38.99,medium,low,7,namesilo,,,18/09/2026 22:43
-588f60a2-4b55-4d53-ad17-6dab3d120b6f,revival.cards,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 02:02
-1d54f437-80af-48ce-b6fa-a2132c424ade,lastly.cards,available,30.2,30.2,medium,low,6,cloudflare,,,28/09/2026 15:27
-1e4a6e36-fb8d-44f8-aa65-b13371479ab7,bowling.cards,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 03:22
-eef06d02-22ad-4eaf-93ca-9745b3446814,courteous.cards,available,38.99,38.99,high,low,9,namesilo,,,24/09/2026 00:40
-a350a035-dac2-424f-b561-1f16bb8bcccf,heavens.cards,available,3.99,50.99,high,low,7,name.com,,,16/08/2026 21:00
-a474fafc-ac54-4d82-898b-049b5369622d,josiah.cards,available,3.99,50.99,medium,low,6,name.com,,,27/09/2026 01:34
-0d5071c8-4296-40d2-b3ec-13e809f4b960,conviction.cards,available,40.98,48.98,high,low,10,namecheap,,,24/09/2026 18:01
-8293fba1-6712-4610-b56e-85a7f2e5e308,tuppeny.cards,available,38.99,38.99,medium,low,7,namesilo,,,10/09/2026 09:12
-9d0f7854-faa9-4038-9858-1424fa4507db,loyola.cards,available,38.99,38.99,medium,low,6,namesilo,,,25/09/2026 07:44
-44afa8b8-67ba-44eb-8fe6-d2f5cbf7d48b,ruth.cards,available,38.99,38.99,high,low,4,namesilo,,,21/09/2026 12:34
-0962ce96-169c-4a71-8ff9-3711a5787a07,chairman.cards,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 07:55
-8aaf193b-ff66-4ed7-bd43-7359a636c8ea,benevolent.cards,available,3.99,50.99,high,low,10,name.com,,,09/08/2026 14:27
-59f40ede-2d56-4a0e-b7d6-13a2acbeeed3,unhindered.cards,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 11:55
-d5822960-46eb-4b1e-a0a5-25898595c2d5,bastard.cards,available,3.99,50.99,medium,low,7,name.com,,,08/08/2026 23:19
-e542e614-0271-406b-a318-2e855240eb7e,hurricane.cards,available,38.99,38.99,high,low,9,namesilo,,,27/09/2026 14:11
